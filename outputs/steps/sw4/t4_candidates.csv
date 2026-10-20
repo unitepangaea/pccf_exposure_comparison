@@ -1,0 +1,78 @@
+grouping,addresses,postal_codes,mean_n_cand,mean_n_eff,mean_n_da,mean_sd_cand_evi,pct_multi_quint_mat,mean_pimax_mat,Link_Source,delivery_mode,rurality,province
+overall,12410638,746916,2.69,2.22,2.32,0.013,21.6,0.907,,,,
+Link_Source,6942142,529901,1,1,1,0,0,1,F,,,
+Link_Source,2387883,9435,7.38,5.21,7.38,0.0547,86.9,0.636,C,,,
+Link_Source,3077779,207365,2.86,2.66,1.36,0.0099,19.7,0.917,D,,,
+Link_Source,740,108,3.7,2.73,3.7,0.0287,78,0.689,5,,,
+Link_Source,2094,107,10.03,5.45,10.03,0.0514,99.6,0.57,4,,,
+delivery_mode,7989501,713057,1.69,1.61,1.15,0.0039,7.7,0.968,,Urban letter carrier: house,,
+delivery_mode,2052235,25180,1.08,1.07,1.01,4e-04,0.6,0.997,,Urban letter carrier: apartment,,
+delivery_mode,30229,766,1.07,1.07,1.01,3e-04,0.3,0.998,,Business / large volume receiver,,
+delivery_mode,2147208,4941,7.75,5.52,7.66,0.0562,88,0.627,,Rural postal code,,
+delivery_mode,155388,826,5.42,3.22,5.42,0.049,90.8,0.666,,Rural route / suburban service,,
+delivery_mode,31953,1840,5.3,4,5.3,0.0334,58.9,0.759,,PO box / general delivery / other,,
+delivery_mode,4124,333,6.17,3.63,6.1,0.0316,65.2,0.721,,Unknown / retired,,
+rurality,8761718,556565,1.87,1.67,1.48,0.0053,9.8,0.958,,,CMA,
+rurality,1413322,118269,2.61,2.2,2.19,0.0119,20.3,0.908,,,CA,
+rurality,739531,19535,6.64,4.9,6.41,0.0481,76.3,0.673,,,Strong MIZ,
+rurality,931063,32740,5.53,4.07,5.36,0.0428,66.1,0.725,,,Moderate MIZ,
+rurality,510939,22092,5.64,4.18,5.45,0.0406,63.4,0.728,,,Weak MIZ,
+rurality,44110,1283,4.13,2.68,4.09,0.0366,56.4,0.798,,,No MIZ,
+rurality,9955,50,20.84,15.51,3.57,0.022,76.4,0.774,,,Territories,
+dm_x_rurality,6369695,531303,1.66,1.59,1.14,0.0034,7.3,0.969,,Urban letter carrier: house,CMA,
+dm_x_rurality,1101130,115296,1.68,1.61,1.14,0.0044,7.6,0.968,,Urban letter carrier: house,CA,
+dm_x_rurality,146009,17328,2.47,2.24,1.32,0.0114,17.3,0.935,,Urban letter carrier: house,Strong MIZ,
+dm_x_rurality,214973,29287,1.96,1.81,1.24,0.0074,10.6,0.959,,Urban letter carrier: house,Moderate MIZ,
+dm_x_rurality,155512,20113,1.78,1.68,1.22,0.0072,12.7,0.948,,Urban letter carrier: house,Weak MIZ,
+dm_x_rurality,2179,460,2.02,1.88,1.13,0.0177,6.7,0.98,,Urban letter carrier: house,No MIZ,
+dm_x_rurality,3,1,2,2,1,0,0,1,,Urban letter carrier: house,Territories,
+dm_x_rurality,1946792,22807,1.08,1.07,1.01,4e-04,0.6,0.997,,Urban letter carrier: apartment,CMA,
+dm_x_rurality,87055,1690,1.1,1.1,1.02,0.0011,1,0.994,,Urban letter carrier: apartment,CA,
+dm_x_rurality,2785,98,1.03,1.03,1.01,1e-04,0,1,,Urban letter carrier: apartment,Strong MIZ,
+dm_x_rurality,9547,383,1.07,1.07,1,1e-04,0.2,0.999,,Urban letter carrier: apartment,Moderate MIZ,
+dm_x_rurality,6055,206,1.02,1.02,1.01,6e-04,1.1,0.993,,Urban letter carrier: apartment,Weak MIZ,
+dm_x_rurality,1,1,1,1,1,0,0,1,,Urban letter carrier: apartment,No MIZ,
+dm_x_rurality,27241,639,1.06,1.06,1.01,4e-04,0.3,0.998,,Business / large volume receiver,CMA,
+dm_x_rurality,1962,70,1.17,1.17,1,0,0,1,,Business / large volume receiver,CA,
+dm_x_rurality,35,5,1.03,1.02,1.03,0,0,1,,Business / large volume receiver,Strong MIZ,
+dm_x_rurality,636,35,1.01,1.01,1,0,0,1,,Business / large volume receiver,Moderate MIZ,
+dm_x_rurality,355,17,1,1,1,0,0,1,,Business / large volume receiver,Weak MIZ,
+dm_x_rurality,356005,749,9.52,6.34,9.52,0.06,93.7,0.604,,Rural postal code,CMA,
+dm_x_rurality,180525,494,8.37,6.07,8.37,0.0535,91.1,0.591,,Rural postal code,CA,
+dm_x_rurality,561079,1427,7.78,5.67,7.77,0.0578,91.3,0.607,,Rural postal code,Strong MIZ,
+dm_x_rurality,671303,2349,6.75,4.87,6.75,0.0552,83.8,0.654,,Rural postal code,Moderate MIZ,
+dm_x_rurality,326616,1295,7.52,5.43,7.49,0.0558,87.1,0.629,,Rural postal code,Weak MIZ,
+dm_x_rurality,41729,752,4.23,2.72,4.23,0.0376,58.9,0.791,,Rural postal code,No MIZ,
+dm_x_rurality,9951,48,20.84,15.52,3.57,0.022,76.5,0.774,,Rural postal code,Territories,
+dm_x_rurality,49584,393,5.2,3.02,5.19,0.0453,86.5,0.708,,Rural route / suburban service,CMA,
+dm_x_rurality,36685,218,5.65,3.33,5.65,0.0553,94.3,0.64,,Rural route / suburban service,CA,
+dm_x_rurality,25429,201,6.07,3.51,6.07,0.052,95.1,0.651,,Rural route / suburban service,Strong MIZ,
+dm_x_rurality,28547,147,5.1,3.27,5.1,0.0371,90.8,0.649,,Rural route / suburban service,Moderate MIZ,
+dm_x_rurality,15060,78,5.12,3.04,5.12,0.063,88.8,0.655,,Rural route / suburban service,Weak MIZ,
+dm_x_rurality,83,3,6.94,4.32,6.94,0.0443,100,0.428,,Rural route / suburban service,No MIZ,
+dm_x_rurality,8950,492,1.91,1.56,1.91,0.0112,20.6,0.934,,PO box / general delivery / other,CMA,
+dm_x_rurality,5741,465,4.04,3.14,4.04,0.0278,61.8,0.731,,PO box / general delivery / other,CA,
+dm_x_rurality,4106,449,6.53,5.47,6.53,0.0396,72,0.699,,PO box / general delivery / other,Strong MIZ,
+dm_x_rurality,5806,493,6.47,4.62,6.46,0.0344,72.8,0.743,,PO box / general delivery / other,Moderate MIZ,
+dm_x_rurality,7233,367,8.85,6.35,8.85,0.0608,85.4,0.62,,PO box / general delivery / other,Weak MIZ,
+dm_x_rurality,116,65,6.28,4.62,6.28,0.0457,62.9,0.72,,PO box / general delivery / other,No MIZ,
+dm_x_rurality,1,1,1,1,1,0,0,1,,PO box / general delivery / other,Territories,
+dm_x_rurality,3451,206,5.97,3.57,5.96,0.0287,62.5,0.728,,Unknown / retired,CMA,
+dm_x_rurality,224,37,6.4,3.54,5.42,0.0444,74.1,0.744,,Unknown / retired,CA,
+dm_x_rurality,88,29,11.43,5.38,11.43,0.0491,80.7,0.624,,Unknown / retired,Strong MIZ,
+dm_x_rurality,251,46,6.74,3.57,6.63,0.043,77.7,0.701,,Unknown / retired,Moderate MIZ,
+dm_x_rurality,108,16,6.45,4.27,6.45,0.0568,91.7,0.607,,Unknown / retired,Weak MIZ,
+dm_x_rurality,2,2,3,2.07,3,0.0309,50,0.762,,Unknown / retired,No MIZ,
+province,177104,10092,3.14,2.44,2.92,0.0192,28.1,0.916,,,,10
+province,66953,3644,5.95,4.39,5.7,0.0251,56.3,0.729,,,,11
+province,420422,25671,4.3,3.39,4.02,0.0239,40.1,0.833,,,,12
+province,315366,51717,1.5,1.42,1.1,0.0038,4.9,0.98,,,,13
+province,3395642,192668,2.48,2.24,1.96,0.0143,21.7,0.906,,,,24
+province,4341355,246081,2.94,2.33,2.65,0.0134,22.1,0.902,,,,35
+province,425656,21573,2.62,2.01,2.41,0.0128,22.3,0.91,,,,46
+province,312977,18821,3.19,2.39,3.04,0.0178,30.3,0.867,,,,47
+province,1312369,74252,2.6,2.07,2.22,0.0108,19.3,0.914,,,,48
+province,1617752,101247,1.99,1.71,1.71,0.0078,16.2,0.933,,,,59
+province,11729,719,2.33,1.88,1.78,0.0071,22.3,0.922,,,,60
+province,9249,421,2.32,1.99,2.12,0.0062,29.6,0.891,,,,61
+province,4064,10,45.12,34.07,2.82,0.0347,71.6,0.84,,,,62

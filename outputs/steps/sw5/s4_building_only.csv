@@ -1,0 +1,144 @@
+grouping,method,N,bias,mae,rmse,pearson_r,mean_delta_vs_C,Link_Source,delivery_mode,measure,pct_misclassified,pct_more_deprived,pct_less_deprived,pct_off_2plus,kappa_linear,pct_assigned_q1,pct_assigned_q5,pct_ref_q1,pct_ref_q5
+overall,A,11662332,0.0051,0.0193,0.0399,0.932,-0.0028,,,evi_b1_mean,,,,,,,,,
+overall,B,11662332,0.0043,0.022,0.0492,0.9,-1e-04,,,evi_b1_mean,,,,,,,,,
+overall,C,11662332,0.0051,0.0221,0.0477,0.906,,,,evi_b1_mean,,,,,,,,,
+Link_Source,A,6878434,1e-04,0.0097,0.0217,0.972,0,F,,evi_b1_mean,,,,,,,,,
+Link_Source,A,1782971,0.0321,0.0637,0.086,0.675,-0.0159,C,,evi_b1_mean,,,,,,,,,
+Link_Source,A,2998909,4e-04,0.0151,0.0264,0.956,-0.0015,D,,evi_b1_mean,,,,,,,,,
+Link_Source,A,532,0.0608,0.1023,0.1359,0.24,-9e-04,5,,evi_b1_mean,,,,,,,,,
+Link_Source,A,1486,0.0919,0.1138,0.1466,0.227,-0.0153,4,,evi_b1_mean,,,,,,,,,
+Link_Source,B,6878434,1e-04,0.0097,0.0217,0.972,0,F,,evi_b1_mean,,,,,,,,,
+Link_Source,B,1782971,0.0266,0.0804,0.1105,0.528,8e-04,C,,evi_b1_mean,,,,,,,,,
+Link_Source,B,2998909,7e-04,0.0156,0.0325,0.936,-9e-04,D,,evi_b1_mean,,,,,,,,,
+Link_Source,B,532,0.0645,0.1001,0.1394,0.2,-0.003,5,,evi_b1_mean,,,,,,,,,
+Link_Source,B,1486,0.1327,0.1698,0.2065,0.136,0.0407,4,,evi_b1_mean,,,,,,,,,
+Link_Source,C,6878434,1e-04,0.0097,0.0217,0.972,,F,,evi_b1_mean,,,,,,,,,
+Link_Source,C,1782971,0.0321,0.0796,0.1065,0.557,,C,,evi_b1_mean,,,,,,,,,
+Link_Source,C,2998909,4e-04,0.0165,0.0321,0.937,,D,,evi_b1_mean,,,,,,,,,
+Link_Source,C,532,0.0578,0.1031,0.1403,0.259,,5,,evi_b1_mean,,,,,,,,,
+Link_Source,C,1486,0.0923,0.1291,0.1614,0.159,,4,,evi_b1_mean,,,,,,,,,
+delivery_mode,A,7861852,4e-04,0.0119,0.0241,0.965,-6e-04,,Urban letter carrier: house,evi_b1_mean,,,,,,,,,
+delivery_mode,A,2038657,-2e-04,0.0099,0.0214,0.968,0,,Urban letter carrier: apartment,evi_b1_mean,,,,,,,,,
+delivery_mode,A,29993,5e-04,0.0094,0.0215,0.977,-1e-04,,Business / large volume receiver,evi_b1_mean,,,,,,,,,
+delivery_mode,A,1611684,0.0331,0.0643,0.0863,0.659,-0.0164,,Rural postal code,evi_b1_mean,,,,,,,,,
+delivery_mode,A,92438,0.0341,0.0675,0.0946,0.503,-0.0143,,Rural route / suburban service,evi_b1_mean,,,,,,,,,
+delivery_mode,A,24468,0.0081,0.062,0.0838,0.692,-0.0098,,PO box / general delivery / other,evi_b1_mean,,,,,,,,,
+delivery_mode,A,3240,0.0485,0.0888,0.1215,0.36,-0.0072,,Unknown / retired,evi_b1_mean,,,,,,,,,
+delivery_mode,B,7861852,4e-04,0.0121,0.0267,0.958,-4e-04,,Urban letter carrier: house,evi_b1_mean,,,,,,,,,
+delivery_mode,B,2038657,-1e-04,0.01,0.0223,0.965,1e-04,,Urban letter carrier: apartment,evi_b1_mean,,,,,,,,,
+delivery_mode,B,29993,5e-04,0.0093,0.0214,0.977,-2e-04,,Business / large volume receiver,evi_b1_mean,,,,,,,,,
+delivery_mode,B,1611684,0.0268,0.0819,0.1119,0.5,0.0012,,Rural postal code,evi_b1_mean,,,,,,,,,
+delivery_mode,B,92438,0.0418,0.0789,0.1091,0.415,-0.0028,,Rural route / suburban service,evi_b1_mean,,,,,,,,,
+delivery_mode,B,24468,-0.0012,0.071,0.0988,0.632,-8e-04,,PO box / general delivery / other,evi_b1_mean,,,,,,,,,
+delivery_mode,B,3240,0.0674,0.1143,0.1571,0.251,0.0183,,Unknown / retired,evi_b1_mean,,,,,,,,,
+delivery_mode,C,7861852,4e-04,0.0125,0.0266,0.958,,,Urban letter carrier: house,evi_b1_mean,,,,,,,,,
+delivery_mode,C,2038657,-2e-04,0.0099,0.0219,0.966,,,Urban letter carrier: apartment,evi_b1_mean,,,,,,,,,
+delivery_mode,C,29993,5e-04,0.0095,0.0221,0.976,,,Business / large volume receiver,evi_b1_mean,,,,,,,,,
+delivery_mode,C,1611684,0.0331,0.0807,0.1073,0.535,,,Rural postal code,evi_b1_mean,,,,,,,,,
+delivery_mode,C,92438,0.0342,0.0817,0.1117,0.396,,,Rural route / suburban service,evi_b1_mean,,,,,,,,,
+delivery_mode,C,24468,0.0081,0.0718,0.097,0.626,,,PO box / general delivery / other,evi_b1_mean,,,,,,,,,
+delivery_mode,C,3240,0.0482,0.096,0.1307,0.323,,,Unknown / retired,evi_b1_mean,,,,,,,,,
+overall,A_mean,10994117,,,,,,,,quintile_mat,11.25,5.99,5.26,2.01,0.9149,20.17,19.25,21.17,20
+overall,A_mode,10994117,,,,,,,,quintile_mat,8.76,4.36,4.4,3.15,0.9206,21.21,20.06,21.17,20
+overall,B,10994117,,,,,,,,quintile_mat,10.51,5.28,5.23,3.9,0.9032,21.09,19.91,21.17,20
+overall,C,10994117,,,,,,,,quintile_mat,10.41,5.27,5.14,3.84,0.9043,21.15,20.08,21.17,20
+Link_Source,A_mean,6486180,,,,,,F,,quintile_mat,1.77,0.89,0.89,0.67,0.9838,24.01,21.79,24.01,21.78
+Link_Source,A_mean,1645688,,,,,,C,,quintile_mat,45.82,25.37,20.45,8.26,0.5941,5.5,18.74,10.59,22.54
+Link_Source,A_mean,2860289,,,,,,D,,quintile_mat,12.8,6.4,6.4,1.44,0.9038,19.9,13.8,20.8,14.49
+Link_Source,A_mean,500,,,,,,5,,quintile_mat,57.6,18.6,39,21.2,0.3645,1.4,6.4,9.8,38.4
+Link_Source,A_mean,1460,,,,,,4,,quintile_mat,53.08,13.63,39.45,11.23,0.3726,54.25,0.27,29.66,8.15
+Link_Source,A_mode,6486180,,,,,,F,,quintile_mat,1.77,0.89,0.89,0.67,0.9838,24.01,21.79,24.01,21.78
+Link_Source,A_mode,1645688,,,,,,C,,quintile_mat,35.64,18.8,16.84,13.01,0.6373,9.68,23.23,10.59,22.54
+Link_Source,A_mode,2860289,,,,,,D,,quintile_mat,9.1,3.93,5.17,3.09,0.9139,21.48,14.32,20.8,14.49
+Link_Source,A_mode,500,,,,,,5,,quintile_mat,43.8,11.6,32.2,32.2,0.4056,9.8,19.4,9.8,38.4
+Link_Source,A_mode,1460,,,,,,4,,quintile_mat,55.07,19.66,35.41,11.1,0.4472,54.32,2.6,29.66,8.15
+Link_Source,B,6486180,,,,,,F,,quintile_mat,1.77,0.89,0.89,0.67,0.9838,24.01,21.79,24.01,21.78
+Link_Source,B,1645688,,,,,,C,,quintile_mat,45.01,22.44,22.57,17.09,0.5348,10.1,21.78,10.59,22.54
+Link_Source,B,2860289,,,,,,D,,quintile_mat,10.44,5.35,5.09,3.63,0.8995,20.81,14.56,20.8,14.49
+Link_Source,B,500,,,,,,5,,quintile_mat,45.8,12.6,33.2,26.6,0.4563,8.6,14.8,9.8,38.4
+Link_Source,B,1460,,,,,,4,,quintile_mat,65.27,50.89,14.38,23.42,0.2078,15.82,2.67,29.66,8.15
+Link_Source,C,6486180,,,,,,F,,quintile_mat,1.77,0.89,0.89,0.67,0.9838,24.01,21.79,24.01,21.78
+Link_Source,C,1645688,,,,,,C,,quintile_mat,44.44,22.65,21.79,16.88,0.5404,10.44,23.1,10.59,22.54
+Link_Source,C,2860289,,,,,,D,,quintile_mat,10.39,5.18,5.21,3.52,0.9017,20.82,14.46,20.8,14.49
+Link_Source,C,500,,,,,,5,,quintile_mat,61.4,14.4,47,34.8,0.2894,7.6,16,9.8,38.4
+Link_Source,C,1460,,,,,,4,,quintile_mat,63.77,39.93,23.84,19.32,0.2713,31.64,2.95,29.66,8.15
+delivery_mode,A_mean,7514783,,,,,,,Urban letter carrier: house,quintile_mat,5.9,2.94,2.96,0.9,0.9561,20.36,19.16,20.7,19.42
+delivery_mode,A_mean,1856084,,,,,,,Urban letter carrier: apartment,quintile_mat,2.94,1.5,1.44,1.04,0.9743,32.21,20.12,32.28,20.14
+delivery_mode,A_mean,22616,,,,,,,Business / large volume receiver,quintile_mat,3.2,1.34,1.86,1.91,0.9598,40.44,9.58,39.96,9.66
+delivery_mode,A_mean,1490686,,,,,,,Rural postal code,quintile_mat,46.02,25.67,20.35,8.09,0.5869,4.53,19.6,9.61,23.55
+delivery_mode,A_mean,86597,,,,,,,Rural route / suburban service,quintile_mat,46.01,23.95,22.06,8.4,0.5682,8.76,6.71,16.81,10.66
+delivery_mode,A_mean,20200,,,,,,,PO box / general delivery / other,quintile_mat,50.63,26.5,24.12,21.25,0.4751,24.51,16.68,26.05,12.81
+delivery_mode,A_mean,3151,,,,,,,Unknown / retired,quintile_mat,57.92,29.36,28.56,24.94,0.3856,28.44,4.19,17.42,12.69
+delivery_mode,A_mode,7514783,,,,,,,Urban letter carrier: house,quintile_mat,4.46,1.99,2.47,1.54,0.9597,20.94,19.36,20.7,19.42
+delivery_mode,A_mode,1856084,,,,,,,Urban letter carrier: apartment,quintile_mat,2.88,1.44,1.44,1.1,0.9741,32.3,20.13,32.28,20.14
+delivery_mode,A_mode,22616,,,,,,,Business / large volume receiver,quintile_mat,3.16,1.3,1.86,2.08,0.9577,40.59,9.58,39.96,9.66
+delivery_mode,A_mode,1490686,,,,,,,Rural postal code,quintile_mat,35.98,19.14,16.85,12.88,0.6307,8.69,24.42,9.61,23.55
+delivery_mode,A_mode,86597,,,,,,,Rural route / suburban service,quintile_mat,30.79,14.51,16.28,13.89,0.6451,15.4,8.51,16.81,10.66
+delivery_mode,A_mode,20200,,,,,,,PO box / general delivery / other,quintile_mat,45.45,21.98,23.47,23.7,0.4847,25.96,16.74,26.05,12.81
+delivery_mode,A_mode,3151,,,,,,,Unknown / retired,quintile_mat,56.65,31.04,25.61,26.63,0.4051,30.09,7.33,17.42,12.69
+delivery_mode,B,7514783,,,,,,,Urban letter carrier: house,quintile_mat,4.95,2.51,2.43,1.73,0.9549,20.7,19.45,20.7,19.42
+delivery_mode,B,1856084,,,,,,,Urban letter carrier: apartment,quintile_mat,3.06,1.56,1.5,1.19,0.9719,32.27,20.16,32.28,20.14
+delivery_mode,B,22616,,,,,,,Business / large volume receiver,quintile_mat,3.39,1.27,2.11,2.34,0.9559,40.48,9.7,39.96,9.66
+delivery_mode,B,1490686,,,,,,,Rural postal code,quintile_mat,45.45,22.66,22.79,17.04,0.5258,9.08,22.63,9.61,23.55
+delivery_mode,B,86597,,,,,,,Rural route / suburban service,quintile_mat,41.92,21.67,20.25,17.82,0.5382,16.66,12.63,16.81,10.66
+delivery_mode,B,20200,,,,,,,PO box / general delivery / other,quintile_mat,53.12,24,29.11,29.06,0.3438,24.9,11.74,26.05,12.81
+delivery_mode,B,3151,,,,,,,Unknown / retired,quintile_mat,61.69,45.67,16.03,31.16,0.281,11.77,6.63,17.42,12.69
+delivery_mode,C,7514783,,,,,,,Urban letter carrier: house,quintile_mat,4.98,2.48,2.5,1.71,0.9551,20.7,19.41,20.7,19.42
+delivery_mode,C,1856084,,,,,,,Urban letter carrier: apartment,quintile_mat,2.88,1.46,1.41,1.08,0.9742,32.23,20.12,32.28,20.14
+delivery_mode,C,22616,,,,,,,Business / large volume receiver,quintile_mat,3.04,1.31,1.72,1.95,0.9602,40.52,9.64,39.96,9.66
+delivery_mode,C,1490686,,,,,,,Rural postal code,quintile_mat,44.86,22.87,21.98,16.82,0.5315,9.49,24.18,9.61,23.55
+delivery_mode,C,86597,,,,,,,Rural route / suburban service,quintile_mat,41.17,20.96,20.2,18.29,0.5349,16.47,10.78,16.81,10.66
+delivery_mode,C,20200,,,,,,,PO box / general delivery / other,quintile_mat,50.09,24.16,25.94,25.58,0.4253,25.67,13.91,26.05,12.81
+delivery_mode,C,3151,,,,,,,Unknown / retired,quintile_mat,63.41,40.81,22.6,30.94,0.287,19.23,6.95,17.42,12.69
+overall,A_mean,10994117,,,,,,,,quintile_soc,11.69,5.59,6.11,2.04,0.9075,11.11,28.84,12.09,29.76
+overall,A_mode,10994117,,,,,,,,quintile_soc,9.02,4.09,4.93,3.19,0.914,12.22,29.36,12.09,29.76
+overall,B,10994117,,,,,,,,quintile_soc,10.8,5.05,5.75,4.02,0.8942,12.33,29.55,12.09,29.76
+overall,C,10994117,,,,,,,,quintile_soc,10.69,5.16,5.53,3.98,0.8957,12.29,29.7,12.09,29.76
+Link_Source,A_mean,6486180,,,,,,F,,quintile_soc,1.8,0.98,0.82,0.64,0.9806,7.54,40.65,7.6,40.57
+Link_Source,A_mean,1645688,,,,,,C,,quintile_soc,48.22,22.81,25.41,7.82,0.4723,7.71,1.21,12.76,6.12
+Link_Source,A_mean,2860289,,,,,,D,,quintile_soc,13.07,6.1,6.97,1.89,0.9044,21.17,17.97,21.87,18.88
+Link_Source,A_mean,500,,,,,,5,,quintile_soc,71.4,42.2,29.2,41.6,0.2672,22.8,1.4,24.6,18.6
+Link_Source,A_mean,1460,,,,,,4,,quintile_soc,53.97,21.64,32.33,29.38,0.2853,5.89,4.25,10.41,13.22
+Link_Source,A_mode,6486180,,,,,,F,,quintile_soc,1.8,0.98,0.82,0.64,0.9806,7.54,40.65,7.6,40.57
+Link_Source,A_mode,1645688,,,,,,C,,quintile_soc,37.28,16.98,20.31,12.61,0.5434,12.07,3.4,12.76,6.12
+Link_Source,A_mode,2860289,,,,,,D,,quintile_soc,9.08,3.7,5.38,3.54,0.9137,22.94,18.72,21.87,18.88
+Link_Source,A_mode,500,,,,,,5,,quintile_soc,56.4,42.2,14.2,42.8,0.3133,22.6,40.8,24.6,18.6
+Link_Source,A_mode,1460,,,,,,4,,quintile_soc,41.92,12.67,29.25,30.68,0.3113,6.99,4.52,10.41,13.22
+Link_Source,B,6486180,,,,,,F,,quintile_soc,1.8,0.98,0.82,0.64,0.9806,7.54,40.65,7.6,40.57
+Link_Source,B,1645688,,,,,,C,,quintile_soc,47.1,21.63,25.47,17.38,0.4134,14.07,4.92,12.76,6.12
+Link_Source,B,2860289,,,,,,D,,quintile_soc,10.28,4.73,5.56,3.97,0.9019,22.21,18.56,21.87,18.88
+Link_Source,B,500,,,,,,5,,quintile_soc,47,36,11,10,0.6038,20.8,13.6,24.6,18.6
+Link_Source,B,1460,,,,,,4,,quintile_soc,42.12,20.21,21.92,36.92,0.3714,13.49,24.86,10.41,13.22
+Link_Source,C,6486180,,,,,,F,,quintile_soc,1.8,0.98,0.82,0.64,0.9806,7.54,40.65,7.6,40.57
+Link_Source,C,1645688,,,,,,C,,quintile_soc,46.46,22.07,24.39,17.1,0.4316,14.01,5.74,12.76,6.12
+Link_Source,C,2860289,,,,,,D,,quintile_soc,10.23,4.88,5.35,3.96,0.9024,22.06,18.66,21.87,18.88
+Link_Source,C,500,,,,,,5,,quintile_soc,62.6,41.6,21,35,0.3144,25.2,19.4,24.6,18.6
+Link_Source,C,1460,,,,,,4,,quintile_soc,56.03,25.14,30.89,37.19,0.2245,18.56,8.08,10.41,13.22
+delivery_mode,A_mean,7514783,,,,,,,Urban letter carrier: house,quintile_soc,6.01,2.86,3.15,1.09,0.9533,14.34,26.99,14.62,27.31
+delivery_mode,A_mean,1856084,,,,,,,Urban letter carrier: apartment,quintile_soc,2.96,1.59,1.37,0.99,0.9507,1.56,60.02,1.67,59.88
+delivery_mode,A_mean,22616,,,,,,,Business / large volume receiver,quintile_soc,2.93,1.94,0.99,1.63,0.9457,2.88,61.51,3.45,60.78
+delivery_mode,A_mean,1490686,,,,,,,Rural postal code,quintile_soc,49,23.16,25.84,7.78,0.4518,6.45,0.76,11.71,5.94
+delivery_mode,A_mean,86597,,,,,,,Rural route / suburban service,quintile_soc,41.59,20.36,21.23,5.03,0.5248,16.18,0.79,21.7,2.52
+delivery_mode,A_mean,20200,,,,,,,PO box / general delivery / other,quintile_soc,49.99,25.11,24.87,15.31,0.5317,18.9,12.42,21.86,17.16
+delivery_mode,A_mean,3151,,,,,,,Unknown / retired,quintile_soc,60.33,29.39,30.94,27.55,0.3263,9.43,8.35,16.25,11.71
+delivery_mode,A_mode,7514783,,,,,,,Urban letter carrier: house,quintile_soc,4.47,1.94,2.53,1.71,0.957,15.02,27.26,14.62,27.31
+delivery_mode,A_mode,1856084,,,,,,,Urban letter carrier: apartment,quintile_soc,2.88,1.57,1.31,1.08,0.9495,1.61,60.09,1.67,59.88
+delivery_mode,A_mode,22616,,,,,,,Business / large volume receiver,quintile_soc,2.87,1.87,0.99,1.64,0.9462,2.89,61.51,3.45,60.78
+delivery_mode,A_mode,1490686,,,,,,,Rural postal code,quintile_soc,37.8,17.27,20.54,12.72,0.5286,10.74,3.08,11.71,5.94
+delivery_mode,A_mode,86597,,,,,,,Rural route / suburban service,quintile_soc,31.14,13.3,17.85,9.92,0.5887,22.49,1.49,21.7,2.52
+delivery_mode,A_mode,20200,,,,,,,PO box / general delivery / other,quintile_soc,44.44,22.04,22.4,14.35,0.5751,22.97,14.04,21.86,17.16
+delivery_mode,A_mode,3151,,,,,,,Unknown / retired,quintile_soc,52.08,25.23,26.85,28.34,0.35,9.9,14.73,16.25,11.71
+delivery_mode,B,7514783,,,,,,,Urban letter carrier: house,quintile_soc,4.9,2.34,2.57,1.88,0.9526,14.74,27.24,14.62,27.31
+delivery_mode,B,1856084,,,,,,,Urban letter carrier: apartment,quintile_soc,3.1,1.62,1.48,1.11,0.9468,1.6,59.98,1.67,59.88
+delivery_mode,B,22616,,,,,,,Business / large volume receiver,quintile_soc,2.91,1.55,1.36,1.93,0.9429,2.86,61.14,3.45,60.78
+delivery_mode,B,1490686,,,,,,,Rural postal code,quintile_soc,47.87,21.92,25.95,17.69,0.3937,13.03,4.57,11.71,5.94
+delivery_mode,B,86597,,,,,,,Rural route / suburban service,quintile_soc,39.87,19.88,19.99,12.14,0.4753,20.47,3.39,21.7,2.52
+delivery_mode,B,20200,,,,,,,PO box / general delivery / other,quintile_soc,53.77,23.07,30.7,22.19,0.4473,26.4,15.2,21.86,17.16
+delivery_mode,B,3151,,,,,,,Unknown / retired,quintile_soc,50.97,27.74,23.23,26.02,0.4199,12.63,19.83,16.25,11.71
+delivery_mode,C,7514783,,,,,,,Urban letter carrier: house,quintile_soc,4.94,2.42,2.52,1.89,0.9523,14.68,27.27,14.62,27.31
+delivery_mode,C,1856084,,,,,,,Urban letter carrier: apartment,quintile_soc,2.88,1.53,1.35,1.07,0.9497,1.58,59.99,1.67,59.88
+delivery_mode,C,22616,,,,,,,Business / large volume receiver,quintile_soc,2.77,1.76,1.01,1.66,0.9469,2.89,61.37,3.45,60.78
+delivery_mode,C,1490686,,,,,,,Rural postal code,quintile_soc,47.18,22.43,24.75,17.4,0.4133,12.9,5.57,11.71,5.94
+delivery_mode,C,86597,,,,,,,Rural route / suburban service,quintile_soc,39.65,18.76,20.89,12.46,0.4917,22.8,2.42,21.7,2.52
+delivery_mode,C,20200,,,,,,,PO box / general delivery / other,quintile_soc,51.08,24.98,26.1,19.48,0.4858,23.05,15.7,21.86,17.16
+delivery_mode,C,3151,,,,,,,Unknown / retired,quintile_soc,59.82,30.97,28.85,30.21,0.3011,15.61,12.98,16.25,11.71

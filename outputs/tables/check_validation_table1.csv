@@ -1,0 +1,18 @@
+group,level,N,nx,N_validation
+Delivery mode,Business / large volume receiver,30229,0,30229
+Delivery mode,PO box / general delivery / other,31953,306,32259
+Delivery mode,Rural postal code,2147208,0,2147208
+Delivery mode,Rural route / suburban service,155388,85,155473
+Delivery mode,Unknown / retired,4124,1271,5395
+Delivery mode,Urban letter carrier: apartment,2052235,0,2052235
+Delivery mode,Urban letter carrier: house,7989501,0,7989501
+Reference source,blockface,485767,759,486526
+Reference source,building,11674833,857,11675690
+Reference source,oda,250038,46,250084
+Rurality (SAC),CA,1413322,63,1413385
+Rurality (SAC),CMA,8761718,899,8762617
+Rurality (SAC),Moderate MIZ,931063,150,931213
+Rurality (SAC),No MIZ,44110,1,44111
+Rurality (SAC),Strong MIZ,739531,287,739818
+Rurality (SAC),Territories,9955,160,10115
+Rurality (SAC),Weak MIZ,510939,102,511041

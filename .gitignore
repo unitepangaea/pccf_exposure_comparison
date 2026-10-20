@@ -1,0 +1,14 @@
+# Data are never committed, except the README file that explains the data folder.
+data/*
+!data/README.md
+
+# Machine-specific settings
+config_local.R
+.Renviron
+
+# R and OS files
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+*.log

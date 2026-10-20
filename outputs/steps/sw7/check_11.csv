@@ -1,0 +1,131 @@
+column,n,agree,wset
+n_cand,3672,3672,pccf
+A_evi_pix_2025,3672,3672,pccf
+A_evi_b1_2025,3672,3672,pccf
+A_evi_b2_2025,3672,3672,pccf
+A_evi_pix_2026,3672,3672,pccf
+A_evi_b1_2026,3672,3672,pccf
+A_evi_b2_2026,3672,3672,pccf
+A_evi_pix_mean,3672,3672,pccf
+A_evi_b1_mean,3672,3672,pccf
+A_evi_b2_mean,3672,3672,pccf
+A_miss_evi_pix_2025,3672,3672,pccf
+A_miss_evi_b1_2025,3672,3672,pccf
+A_miss_evi_b2_2025,3672,3672,pccf
+A_miss_evi_pix_2026,3672,3672,pccf
+A_miss_evi_b1_2026,3672,3672,pccf
+A_miss_evi_b2_2026,3672,3672,pccf
+A_miss_evi_pix_mean,3672,3672,pccf
+A_miss_evi_b1_mean,3672,3672,pccf
+A_miss_evi_b2_mean,3672,3672,pccf
+B_evi_pix_2025,3672,3672,pccf
+B_evi_b1_2025,3672,3672,pccf
+B_evi_b2_2025,3672,3672,pccf
+B_evi_pix_2026,3672,3672,pccf
+B_evi_b1_2026,3672,3672,pccf
+B_evi_b2_2026,3672,3672,pccf
+B_evi_pix_mean,3672,3672,pccf
+B_evi_b1_mean,3672,3672,pccf
+B_evi_b2_mean,3672,3672,pccf
+A_S_mat,3672,3672,pccf
+A_S_soc,3672,3672,pccf
+A_miss_S_mat,3672,3672,pccf
+A_miss_S_soc,3672,3672,pccf
+A_pi_mat_1,3672,3672,pccf
+A_pi_mat_2,3672,3672,pccf
+A_pi_mat_3,3672,3672,pccf
+A_pi_mat_4,3672,3672,pccf
+A_pi_mat_5,3672,3672,pccf
+A_pi_soc_1,3672,3672,pccf
+A_pi_soc_2,3672,3672,pccf
+A_pi_soc_3,3672,3672,pccf
+A_pi_soc_4,3672,3672,pccf
+A_pi_soc_5,3672,3672,pccf
+A_q_mat,3672,3672,pccf
+A_q_soc,3672,3672,pccf
+A_mode_mat,3672,3672,pccf
+A_mode_soc,3672,3672,pccf
+B_S_mat,3672,3672,pccf
+B_S_soc,3672,3672,pccf
+B_q_mat,3672,3672,pccf
+B_q_soc,3672,3672,pccf
+B_x,3672,3672,pccf
+B_y,3672,3672,pccf
+B_lat,3672,3672,pccf
+B_lon,3672,3672,pccf
+A_sd_evi_pix_2025^2 = A_V,3672,3672,pccf
+A_sd_evi_b1_2025^2 = A_V,3672,3672,pccf
+A_sd_evi_b2_2025^2 = A_V,3672,3672,pccf
+A_sd_evi_pix_2026^2 = A_V,3672,3672,pccf
+A_sd_evi_b1_2026^2 = A_V,3672,3672,pccf
+A_sd_evi_b2_2026^2 = A_V,3672,3672,pccf
+A_sd_evi_pix_mean^2 = A_V,3672,3672,pccf
+A_sd_evi_b1_mean^2 = A_V,3672,3672,pccf
+A_sd_evi_b2_mean^2 = A_V,3672,3672,pccf
+B_DAuid,3672,3672,pccf
+B_da_method,3672,3672,pccf
+n_cand,3672,3672,pop
+A_evi_pix_2025,3672,3672,pop
+A_evi_b1_2025,3672,3672,pop
+A_evi_b2_2025,3672,3672,pop
+A_evi_pix_2026,3672,3672,pop
+A_evi_b1_2026,3672,3672,pop
+A_evi_b2_2026,3672,3672,pop
+A_evi_pix_mean,3672,3672,pop
+A_evi_b1_mean,3672,3672,pop
+A_evi_b2_mean,3672,3672,pop
+A_miss_evi_pix_2025,3672,3672,pop
+A_miss_evi_b1_2025,3672,3672,pop
+A_miss_evi_b2_2025,3672,3672,pop
+A_miss_evi_pix_2026,3672,3672,pop
+A_miss_evi_b1_2026,3672,3672,pop
+A_miss_evi_b2_2026,3672,3672,pop
+A_miss_evi_pix_mean,3672,3672,pop
+A_miss_evi_b1_mean,3672,3672,pop
+A_miss_evi_b2_mean,3672,3672,pop
+B_evi_pix_2025,3672,3672,pop
+B_evi_b1_2025,3672,3672,pop
+B_evi_b2_2025,3672,3672,pop
+B_evi_pix_2026,3672,3672,pop
+B_evi_b1_2026,3672,3672,pop
+B_evi_b2_2026,3672,3672,pop
+B_evi_pix_mean,3672,3672,pop
+B_evi_b1_mean,3672,3672,pop
+B_evi_b2_mean,3672,3672,pop
+A_S_mat,3672,3672,pop
+A_S_soc,3672,3672,pop
+A_miss_S_mat,3672,3672,pop
+A_miss_S_soc,3672,3672,pop
+A_pi_mat_1,3672,3672,pop
+A_pi_mat_2,3672,3672,pop
+A_pi_mat_3,3672,3672,pop
+A_pi_mat_4,3672,3672,pop
+A_pi_mat_5,3672,3672,pop
+A_pi_soc_1,3672,3672,pop
+A_pi_soc_2,3672,3672,pop
+A_pi_soc_3,3672,3672,pop
+A_pi_soc_4,3672,3672,pop
+A_pi_soc_5,3672,3672,pop
+A_q_mat,3672,3672,pop
+A_q_soc,3672,3672,pop
+A_mode_mat,3672,3672,pop
+A_mode_soc,3672,3672,pop
+B_S_mat,3672,3672,pop
+B_S_soc,3672,3672,pop
+B_q_mat,3672,3672,pop
+B_q_soc,3672,3672,pop
+B_x,3672,3672,pop
+B_y,3672,3672,pop
+B_lat,3672,3672,pop
+B_lon,3672,3672,pop
+A_sd_evi_pix_2025^2 = A_V,3672,3672,pop
+A_sd_evi_b1_2025^2 = A_V,3672,3672,pop
+A_sd_evi_b2_2025^2 = A_V,3672,3672,pop
+A_sd_evi_pix_2026^2 = A_V,3672,3672,pop
+A_sd_evi_b1_2026^2 = A_V,3672,3672,pop
+A_sd_evi_b2_2026^2 = A_V,3672,3672,pop
+A_sd_evi_pix_mean^2 = A_V,3672,3672,pop
+A_sd_evi_b1_mean^2 = A_V,3672,3672,pop
+A_sd_evi_b2_mean^2 = A_V,3672,3672,pop
+B_DAuid,3672,3672,pop
+B_da_method,3672,3672,pop

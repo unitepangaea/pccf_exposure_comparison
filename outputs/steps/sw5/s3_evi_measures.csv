@@ -1,0 +1,352 @@
+grouping,method,N,bias,mae,rmse,pearson_r,mean_delta_vs_C,Link_Source,delivery_mode,measure
+overall,A,12348794,0.0081,0.0315,0.0584,0.872,-0.0043,,,pix_2025
+overall,B,12348794,0.0069,0.036,0.0708,0.821,2e-04,,,pix_2025
+overall,C,12348794,0.0081,0.0358,0.0687,0.833,,,,pix_2025
+Link_Source,A,6922120,0,0.018,0.0398,0.916,0,F,,pix_2025
+Link_Source,A,2356173,0.0419,0.0781,0.1029,0.59,-0.0198,C,,pix_2025
+Link_Source,A,3067703,4e-04,0.026,0.0444,0.89,-0.0021,D,,pix_2025
+Link_Source,A,737,0.059,0.0938,0.1242,0.48,-0.0086,5,,pix_2025
+Link_Source,A,2061,0.1018,0.1214,0.1668,0.191,-0.0168,4,,pix_2025
+Link_Source,B,6922120,0,0.018,0.0398,0.916,0,F,,pix_2025
+Link_Source,B,2356173,0.0352,0.1007,0.1341,0.423,0.0028,C,,pix_2025
+Link_Source,B,3067703,6e-04,0.0268,0.0527,0.851,-0.0013,D,,pix_2025
+Link_Source,B,737,0.0746,0.1245,0.1465,0.251,0.0221,5,,pix_2025
+Link_Source,B,2061,0.1249,0.15,0.2018,0.158,0.0118,4,,pix_2025
+Link_Source,C,6922120,0,0.018,0.0398,0.916,,F,,pix_2025
+Link_Source,C,2356173,0.0419,0.0979,0.128,0.461,,C,,pix_2025
+Link_Source,C,3067703,4e-04,0.0281,0.0528,0.85,,D,,pix_2025
+Link_Source,C,737,0.0572,0.1024,0.1343,0.448,,5,,pix_2025
+Link_Source,C,2061,0.1017,0.1382,0.1838,0.135,,4,,pix_2025
+delivery_mode,A,7968427,5e-04,0.0211,0.0416,0.904,-9e-04,,Urban letter carrier: house,pix_2025
+delivery_mode,A,2045971,-8e-04,0.0192,0.0414,0.89,0,,Urban letter carrier: apartment,pix_2025
+delivery_mode,A,30213,2e-04,0.0168,0.0375,0.933,-1e-04,,Business / large volume receiver,pix_2025
+delivery_mode,A,2113728,0.043,0.0785,0.103,0.575,-0.0203,,Rural postal code,pix_2025
+delivery_mode,A,154463,0.0393,0.0804,0.1093,0.396,-0.018,,Rural route / suburban service,pix_2025
+delivery_mode,A,31905,0.0201,0.0764,0.1025,0.591,-0.0142,,PO box / general delivery / other,pix_2025
+delivery_mode,A,4087,0.0649,0.0919,0.134,0.372,-0.0101,,Unknown / retired,pix_2025
+delivery_mode,B,7968427,5e-04,0.0214,0.0452,0.89,-6e-04,,Urban letter carrier: house,pix_2025
+delivery_mode,B,2045971,-6e-04,0.0194,0.0422,0.887,1e-04,,Urban letter carrier: apartment,pix_2025
+delivery_mode,B,30213,2e-04,0.0167,0.0375,0.933,-1e-04,,Business / large volume receiver,pix_2025
+delivery_mode,B,2113728,0.0359,0.1019,0.1352,0.399,0.003,,Rural postal code,pix_2025
+delivery_mode,B,154463,0.0404,0.1013,0.1352,0.284,0.0028,,Rural route / suburban service,pix_2025
+delivery_mode,B,31905,0.0041,0.0912,0.1226,0.505,5e-04,,PO box / general delivery / other,pix_2025
+delivery_mode,B,4087,0.079,0.1122,0.1602,0.263,0.0102,,Unknown / retired,pix_2025
+delivery_mode,C,7968427,5e-04,0.0219,0.0453,0.889,,,Urban letter carrier: house,pix_2025
+delivery_mode,C,2045971,-8e-04,0.0193,0.0419,0.888,,,Urban letter carrier: apartment,pix_2025
+delivery_mode,C,30213,2e-04,0.0168,0.0381,0.931,,,Business / large volume receiver,pix_2025
+delivery_mode,C,2113728,0.043,0.0988,0.1287,0.442,,,Rural postal code,pix_2025
+delivery_mode,C,154463,0.0395,0.0985,0.1304,0.296,,,Rural route / suburban service,pix_2025
+delivery_mode,C,31905,0.0198,0.0906,0.1223,0.506,,,PO box / general delivery / other,pix_2025
+delivery_mode,C,4087,0.0646,0.102,0.1466,0.32,,,Unknown / retired,pix_2025
+overall,A,12390443,0.0068,0.0218,0.0439,0.921,-0.0035,,,b1_2025
+overall,B,12390443,0.0061,0.0253,0.0545,0.882,0,,,b1_2025
+overall,C,12390443,0.0068,0.0253,0.053,0.889,,,,b1_2025
+Link_Source,A,6940329,1e-04,0.0097,0.0218,0.972,0,F,,b1_2025
+Link_Source,A,2373640,0.0348,0.0657,0.088,0.657,-0.0164,C,,b1_2025
+Link_Source,A,3073641,4e-04,0.0152,0.0266,0.956,-0.0015,D,,b1_2025
+Link_Source,A,739,0.0414,0.0794,0.1154,0.46,-0.0052,5,,b1_2025
+Link_Source,A,2094,0.0755,0.0983,0.1341,0.279,-0.0113,4,,b1_2025
+Link_Source,B,6940329,1e-04,0.0097,0.0218,0.972,0,F,,b1_2025
+Link_Source,B,2373640,0.0305,0.0832,0.1128,0.504,0.0011,C,,b1_2025
+Link_Source,B,3073641,7e-04,0.0157,0.0326,0.935,-9e-04,D,,b1_2025
+Link_Source,B,739,0.0559,0.0807,0.1188,0.404,-0.004,5,,b1_2025
+Link_Source,B,2094,0.0998,0.1295,0.1726,0.264,0.0198,4,,b1_2025
+Link_Source,C,6940329,1e-04,0.0097,0.0218,0.972,,F,,b1_2025
+Link_Source,C,2373640,0.0348,0.0822,0.1091,0.535,,C,,b1_2025
+Link_Source,C,3073641,4e-04,0.0166,0.0323,0.936,,D,,b1_2025
+Link_Source,C,739,0.0389,0.0847,0.1205,0.466,,5,,b1_2025
+Link_Source,C,2094,0.0756,0.1096,0.149,0.211,,4,,b1_2025
+delivery_mode,A,7987033,4e-04,0.012,0.0243,0.964,-6e-04,,Urban letter carrier: house,b1_2025
+delivery_mode,A,2051580,-2e-04,0.0099,0.0214,0.967,0,,Urban letter carrier: apartment,b1_2025
+delivery_mode,A,30223,5e-04,0.0093,0.0211,0.978,-1e-04,,Business / large volume receiver,b1_2025
+delivery_mode,A,2130282,0.0359,0.0662,0.0881,0.645,-0.0169,,Rural postal code,b1_2025
+delivery_mode,A,155260,0.0333,0.0687,0.0948,0.501,-0.0147,,Rural route / suburban service,b1_2025
+delivery_mode,A,31942,0.01,0.0618,0.0846,0.673,-0.0101,,PO box / general delivery / other,b1_2025
+delivery_mode,A,4123,0.0425,0.081,0.1147,0.416,-0.0067,,Unknown / retired,b1_2025
+delivery_mode,B,7987033,4e-04,0.0122,0.0269,0.957,-4e-04,,Urban letter carrier: house,b1_2025
+delivery_mode,B,2051580,-1e-04,0.01,0.0223,0.965,1e-04,,Urban letter carrier: apartment,b1_2025
+delivery_mode,B,30223,4e-04,0.0092,0.021,0.978,-2e-04,,Business / large volume receiver,b1_2025
+delivery_mode,B,2130282,0.031,0.0843,0.1138,0.48,0.0012,,Rural postal code,b1_2025
+delivery_mode,B,155260,0.0387,0.0845,0.1155,0.375,0.0011,,Rural route / suburban service,b1_2025
+delivery_mode,B,31942,-0.004,0.0731,0.101,0.589,0.0012,,PO box / general delivery / other,b1_2025
+delivery_mode,B,4123,0.0571,0.0973,0.1391,0.356,0.0096,,Unknown / retired,b1_2025
+delivery_mode,C,7987033,4e-04,0.0126,0.0269,0.957,,,Urban letter carrier: house,b1_2025
+delivery_mode,C,2051580,-2e-04,0.0099,0.0218,0.966,,,Urban letter carrier: apartment,b1_2025
+delivery_mode,C,30223,5e-04,0.0095,0.0217,0.976,,,Business / large volume receiver,b1_2025
+delivery_mode,C,2130282,0.0359,0.0831,0.1099,0.515,,,Rural postal code,b1_2025
+delivery_mode,C,155260,0.0336,0.0834,0.1123,0.393,,,Rural route / suburban service,b1_2025
+delivery_mode,C,31942,0.01,0.0719,0.098,0.607,,,PO box / general delivery / other,b1_2025
+delivery_mode,C,4123,0.0422,0.0877,0.1246,0.376,,,Unknown / retired,b1_2025
+overall,A,12397895,0.0056,0.0176,0.0382,0.938,-0.003,,,b2_2025
+overall,B,12397895,0.0053,0.0204,0.0472,0.908,-2e-04,,,b2_2025
+overall,C,12397895,0.0056,0.0206,0.0464,0.911,,,,b2_2025
+Link_Source,A,6941889,1e-04,0.0067,0.0155,0.985,0,F,,b2_2025
+Link_Source,A,2378699,0.0286,0.0581,0.0798,0.699,-0.0142,C,,b2_2025
+Link_Source,A,3074474,3e-04,0.0109,0.02,0.974,-0.0011,D,,b2_2025
+Link_Source,A,739,0.0269,0.0803,0.1091,0.395,-0.0026,5,,b2_2025
+Link_Source,A,2094,0.0541,0.0848,0.1123,0.314,-0.0105,4,,b2_2025
+Link_Source,B,6941889,1e-04,0.0067,0.0155,0.985,0,F,,b2_2025
+Link_Source,B,2378699,0.0266,0.0722,0.1003,0.562,-1e-04,C,,b2_2025
+Link_Source,B,3074474,5e-04,0.0113,0.0249,0.961,-7e-04,D,,b2_2025
+Link_Source,B,739,0.0388,0.0677,0.1084,0.362,-0.0151,5,,b2_2025
+Link_Source,B,2094,0.0838,0.1098,0.1525,0.299,0.0145,4,,b2_2025
+Link_Source,C,6941889,1e-04,0.0067,0.0155,0.985,,F,,b2_2025
+Link_Source,C,2378699,0.0287,0.0723,0.0986,0.583,,C,,b2_2025
+Link_Source,C,3074474,3e-04,0.012,0.0247,0.961,,D,,b2_2025
+Link_Source,C,739,0.0245,0.0829,0.1147,0.392,,5,,b2_2025
+Link_Source,C,2094,0.0545,0.0953,0.1274,0.238,,4,,b2_2025
+delivery_mode,A,7988765,2e-04,0.0086,0.0181,0.98,-5e-04,,Urban letter carrier: house,b2_2025
+delivery_mode,A,2052235,1e-04,0.0065,0.0147,0.984,0,,Urban letter carrier: apartment,b2_2025
+delivery_mode,A,30229,-4e-04,0.0061,0.0147,0.989,-1e-04,,Business / large volume receiver,b2_2025
+delivery_mode,A,2135293,0.0296,0.0585,0.0799,0.689,-0.0146,,Rural postal code,b2_2025
+delivery_mode,A,155301,0.0276,0.0626,0.0876,0.564,-0.0123,,Rural route / suburban service,b2_2025
+delivery_mode,A,31949,0.0058,0.0546,0.0772,0.709,-0.0097,,PO box / general delivery / other,b2_2025
+delivery_mode,A,4123,0.0317,0.0704,0.0985,0.449,-0.0058,,Unknown / retired,b2_2025
+delivery_mode,B,7988765,3e-04,0.0087,0.0202,0.975,-3e-04,,Urban letter carrier: house,b2_2025
+delivery_mode,B,2052235,1e-04,0.0066,0.0156,0.982,1e-04,,Urban letter carrier: apartment,b2_2025
+delivery_mode,B,30229,-5e-04,0.0062,0.0149,0.988,0,,Business / large volume receiver,b2_2025
+delivery_mode,B,2135293,0.0268,0.073,0.1009,0.542,-1e-04,,Rural postal code,b2_2025
+delivery_mode,B,155301,0.0378,0.0764,0.1061,0.44,0.0015,,Rural route / suburban service,b2_2025
+delivery_mode,B,31949,-0.0061,0.0636,0.0903,0.634,-6e-04,,PO box / general delivery / other,b2_2025
+delivery_mode,B,4123,0.0484,0.0811,0.1231,0.39,0.0049,,Unknown / retired,b2_2025
+delivery_mode,C,7988765,2e-04,0.009,0.0202,0.975,,,Urban letter carrier: house,b2_2025
+delivery_mode,C,2052235,1e-04,0.0065,0.0151,0.983,,,Urban letter carrier: apartment,b2_2025
+delivery_mode,C,30229,-4e-04,0.0063,0.0151,0.988,,,Business / large volume receiver,b2_2025
+delivery_mode,C,2135293,0.0296,0.073,0.0992,0.567,,,Rural postal code,b2_2025
+delivery_mode,C,155301,0.0279,0.0749,0.1031,0.456,,,Rural route / suburban service,b2_2025
+delivery_mode,C,31949,0.0058,0.0642,0.0895,0.645,,,PO box / general delivery / other,b2_2025
+delivery_mode,C,4123,0.0315,0.0762,0.1086,0.4,,,Unknown / retired,b2_2025
+overall,A,12345840,0.0082,0.0328,0.0609,0.87,-0.0044,,,pix_2026
+overall,B,12345840,0.0074,0.0374,0.0735,0.821,2e-04,,,pix_2026
+overall,C,12345840,0.0082,0.0372,0.0713,0.831,,,,pix_2026
+Link_Source,A,6922287,1e-04,0.0188,0.0414,0.916,0,F,,pix_2026
+Link_Source,A,2353799,0.0421,0.081,0.1075,0.567,-0.0201,C,,pix_2026
+Link_Source,A,3066957,5e-04,0.0275,0.0465,0.886,-0.0022,D,,pix_2026
+Link_Source,A,737,0.0641,0.0901,0.1218,0.484,-0.0125,5,,pix_2026
+Link_Source,A,2060,0.0977,0.1214,0.1569,0.312,-0.0131,4,,pix_2026
+Link_Source,B,6922287,1e-04,0.0188,0.0414,0.916,0,F,,pix_2026
+Link_Source,B,2353799,0.0378,0.1038,0.1388,0.414,0.0027,C,,pix_2026
+Link_Source,B,3066957,7e-04,0.0282,0.0552,0.847,-0.0015,D,,pix_2026
+Link_Source,B,737,0.0774,0.1133,0.1375,0.355,0.0106,5,,pix_2026
+Link_Source,B,2060,0.1366,0.1622,0.2091,0.209,0.0277,4,,pix_2026
+Link_Source,C,6922287,1e-04,0.0188,0.0414,0.916,,F,,pix_2026
+Link_Source,C,2353799,0.0421,0.1011,0.1327,0.441,,C,,pix_2026
+Link_Source,C,3066957,5e-04,0.0297,0.0553,0.845,,D,,pix_2026
+Link_Source,C,737,0.0625,0.1026,0.1331,0.429,,5,,pix_2026
+Link_Source,C,2060,0.0984,0.1345,0.1741,0.248,,4,,pix_2026
+delivery_mode,A,7966944,5e-04,0.0221,0.0434,0.903,-9e-04,,Urban letter carrier: house,pix_2026
+delivery_mode,A,2046799,-5e-04,0.0202,0.0433,0.892,0,,Urban letter carrier: apartment,pix_2026
+delivery_mode,A,30216,-1e-04,0.0168,0.0386,0.937,-1e-04,,Business / large volume receiver,pix_2026
+delivery_mode,A,2111591,0.0432,0.0814,0.1076,0.553,-0.0207,,Rural postal code,pix_2026
+delivery_mode,A,154703,0.0409,0.0829,0.1141,0.349,-0.0183,,Rural route / suburban service,pix_2026
+delivery_mode,A,31507,0.0133,0.079,0.1045,0.584,-0.0129,,PO box / general delivery / other,pix_2026
+delivery_mode,A,4080,0.0658,0.0942,0.1296,0.417,-0.0091,,Unknown / retired,pix_2026
+delivery_mode,B,7966944,5e-04,0.0224,0.0471,0.888,-6e-04,,Urban letter carrier: house,pix_2026
+delivery_mode,B,2046799,-3e-04,0.0203,0.0441,0.888,1e-04,,Urban letter carrier: apartment,pix_2026
+delivery_mode,B,30216,-1e-04,0.0169,0.0388,0.936,-1e-04,,Business / large volume receiver,pix_2026
+delivery_mode,B,2111591,0.0385,0.1052,0.14,0.391,0.0031,,Rural postal code,pix_2026
+delivery_mode,B,154703,0.0444,0.1024,0.1394,0.246,0.0012,,Rural route / suburban service,pix_2026
+delivery_mode,B,31507,0.0013,0.0922,0.124,0.526,2e-04,,PO box / general delivery / other,pix_2026
+delivery_mode,B,4080,0.0879,0.1191,0.1649,0.27,0.0158,,Unknown / retired,pix_2026
+delivery_mode,C,7966944,5e-04,0.023,0.0473,0.887,,,Urban letter carrier: house,pix_2026
+delivery_mode,C,2046799,-5e-04,0.0202,0.0437,0.89,,,Urban letter carrier: apartment,pix_2026
+delivery_mode,C,30216,-2e-04,0.0169,0.0392,0.935,,,Business / large volume receiver,pix_2026
+delivery_mode,C,2111591,0.0432,0.1021,0.1335,0.422,,,Rural postal code,pix_2026
+delivery_mode,C,154703,0.0409,0.1013,0.1352,0.252,,,Rural route / suburban service,pix_2026
+delivery_mode,C,31507,0.0131,0.092,0.1225,0.505,,,PO box / general delivery / other,pix_2026
+delivery_mode,C,4080,0.0659,0.1034,0.1423,0.359,,,Unknown / retired,pix_2026
+overall,A,12391689,0.0068,0.0224,0.0453,0.92,-0.0036,,,b1_2026
+overall,B,12391689,0.0062,0.0261,0.0562,0.882,1e-04,,,b1_2026
+overall,C,12391689,0.0068,0.026,0.0545,0.889,,,,b1_2026
+Link_Source,A,6940074,1e-04,0.01,0.0225,0.972,0,F,,b1_2026
+Link_Source,A,2375327,0.0348,0.0673,0.0907,0.644,-0.0166,C,,b1_2026
+Link_Source,A,3073455,4e-04,0.0157,0.0274,0.955,-0.0015,D,,b1_2026
+Link_Source,A,739,0.0407,0.0827,0.1203,0.362,-0.0059,5,,b1_2026
+Link_Source,A,2094,0.0674,0.0866,0.1196,0.382,-0.0109,4,,b1_2026
+Link_Source,B,6940074,1e-04,0.01,0.0225,0.972,0,F,,b1_2026
+Link_Source,B,2375327,0.0312,0.0854,0.1162,0.494,0.0015,C,,b1_2026
+Link_Source,B,3073455,7e-04,0.0163,0.0337,0.934,-9e-04,D,,b1_2026
+Link_Source,B,739,0.0558,0.0861,0.1246,0.279,-0.0025,5,,b1_2026
+Link_Source,B,2094,0.1083,0.1356,0.1807,0.3,0.0381,4,,b1_2026
+Link_Source,C,6940074,1e-04,0.01,0.0225,0.972,,F,,b1_2026
+Link_Source,C,2375327,0.0348,0.0839,0.112,0.522,,C,,b1_2026
+Link_Source,C,3073455,4e-04,0.0172,0.0334,0.934,,D,,b1_2026
+Link_Source,C,739,0.0379,0.0885,0.1256,0.362,,5,,b1_2026
+Link_Source,C,2094,0.0675,0.0975,0.1323,0.315,,4,,b1_2026
+delivery_mode,A,7986379,4e-04,0.0124,0.025,0.964,-6e-04,,Urban letter carrier: house,b1_2026
+delivery_mode,A,2051787,-2e-04,0.0102,0.0222,0.967,0,,Urban letter carrier: apartment,b1_2026
+delivery_mode,A,30223,6e-04,0.0096,0.0224,0.977,-1e-04,,Business / large volume receiver,b1_2026
+delivery_mode,A,2132032,0.0358,0.0677,0.0907,0.633,-0.0171,,Rural postal code,b1_2026
+delivery_mode,A,155203,0.0352,0.072,0.0997,0.449,-0.0148,,Rural route / suburban service,b1_2026
+delivery_mode,A,31942,0.0065,0.0652,0.0882,0.663,-0.0095,,PO box / general delivery / other,b1_2026
+delivery_mode,A,4123,0.0383,0.0748,0.1064,0.44,-0.0066,,Unknown / retired,b1_2026
+delivery_mode,B,7986379,4e-04,0.0126,0.0277,0.956,-4e-04,,Urban letter carrier: house,b1_2026
+delivery_mode,B,2051787,0,0.0104,0.0231,0.965,1e-04,,Urban letter carrier: apartment,b1_2026
+delivery_mode,B,30223,6e-04,0.0096,0.0224,0.977,-2e-04,,Business / large volume receiver,b1_2026
+delivery_mode,B,2132032,0.0316,0.0866,0.1172,0.471,0.0018,,Rural postal code,b1_2026
+delivery_mode,B,155203,0.0418,0.0868,0.1199,0.336,0,,Rural route / suburban service,b1_2026
+delivery_mode,B,31942,-0.0045,0.0748,0.1029,0.604,1e-04,,PO box / general delivery / other,b1_2026
+delivery_mode,B,4123,0.0615,0.1003,0.1444,0.322,0.019,,Unknown / retired,b1_2026
+delivery_mode,C,7986379,4e-04,0.013,0.0277,0.956,,,Urban letter carrier: house,b1_2026
+delivery_mode,C,2051787,-2e-04,0.0103,0.0227,0.966,,,Urban letter carrier: apartment,b1_2026
+delivery_mode,C,30223,6e-04,0.0097,0.0229,0.976,,,Business / large volume receiver,b1_2026
+delivery_mode,C,2132032,0.0358,0.0848,0.1126,0.503,,,Rural postal code,b1_2026
+delivery_mode,C,155203,0.0353,0.0867,0.1178,0.34,,,Rural route / suburban service,b1_2026
+delivery_mode,C,31942,0.0065,0.0746,0.1006,0.601,,,PO box / general delivery / other,b1_2026
+delivery_mode,C,4123,0.0379,0.0814,0.1149,0.404,,,Unknown / retired,b1_2026
+overall,A,12399163,0.0057,0.018,0.0392,0.938,-0.003,,,b2_2026
+overall,B,12399163,0.0054,0.021,0.0485,0.907,-1e-04,,,b2_2026
+overall,C,12399163,0.0057,0.0211,0.0475,0.911,,,,b2_2026
+Link_Source,A,6941812,1e-04,0.0069,0.0159,0.985,0,F,,b2_2026
+Link_Source,A,2380130,0.0288,0.0594,0.0819,0.691,-0.0143,C,,b2_2026
+Link_Source,A,3074388,3e-04,0.0113,0.0207,0.974,-0.0012,D,,b2_2026
+Link_Source,A,739,0.0235,0.0843,0.1144,0.276,-0.0036,5,,b2_2026
+Link_Source,A,2094,0.0484,0.0719,0.0996,0.442,-0.0106,4,,b2_2026
+Link_Source,B,6941812,1e-04,0.0069,0.0159,0.985,0,F,,b2_2026
+Link_Source,B,2380130,0.0273,0.0739,0.1031,0.554,3e-04,C,,b2_2026
+Link_Source,B,3074388,5e-04,0.0117,0.0257,0.96,-7e-04,D,,b2_2026
+Link_Source,B,739,0.0371,0.0707,0.1133,0.237,-0.0172,5,,b2_2026
+Link_Source,B,2094,0.0881,0.1103,0.1541,0.377,0.0278,4,,b2_2026
+Link_Source,C,6941812,1e-04,0.0069,0.0159,0.985,,F,,b2_2026
+Link_Source,C,2380130,0.0289,0.0736,0.1009,0.575,,C,,b2_2026
+Link_Source,C,3074388,3e-04,0.0124,0.0255,0.96,,D,,b2_2026
+Link_Source,C,739,0.0208,0.0879,0.12,0.264,,5,,b2_2026
+Link_Source,C,2094,0.0485,0.0825,0.1125,0.366,,4,,b2_2026
+delivery_mode,A,7988601,2e-04,0.0088,0.0184,0.98,-5e-04,,Urban letter carrier: house,b2_2026
+delivery_mode,A,2052235,0,0.0067,0.0152,0.984,0,,Urban letter carrier: apartment,b2_2026
+delivery_mode,A,30229,-1e-04,0.0067,0.0159,0.988,-1e-04,,Business / large volume receiver,b2_2026
+delivery_mode,A,2136759,0.0298,0.0596,0.0819,0.683,-0.0147,,Rural postal code,b2_2026
+delivery_mode,A,155273,0.0293,0.0653,0.0917,0.523,-0.0127,,Rural route / suburban service,b2_2026
+delivery_mode,A,31943,0.0022,0.0568,0.0803,0.701,-0.0093,,PO box / general delivery / other,b2_2026
+delivery_mode,A,4123,0.0284,0.0637,0.0918,0.481,-0.006,,Unknown / retired,b2_2026
+delivery_mode,B,7988601,3e-04,0.0089,0.0207,0.975,-3e-04,,Urban letter carrier: house,b2_2026
+delivery_mode,B,2052235,1e-04,0.0068,0.0161,0.982,1e-04,,Urban letter carrier: apartment,b2_2026
+delivery_mode,B,30229,-2e-04,0.0067,0.0161,0.987,0,,Business / large volume receiver,b2_2026
+delivery_mode,B,2136759,0.0273,0.0747,0.1037,0.536,4e-04,,Rural postal code,b2_2026
+delivery_mode,B,155273,0.041,0.0789,0.1108,0.398,9e-04,,Rural route / suburban service,b2_2026
+delivery_mode,B,31943,-0.0062,0.0646,0.0917,0.647,-0.0015,,PO box / general delivery / other,b2_2026
+delivery_mode,B,4123,0.0507,0.0808,0.1243,0.386,0.0111,,Unknown / retired,b2_2026
+delivery_mode,C,7988601,2e-04,0.0092,0.0207,0.975,,,Urban letter carrier: house,b2_2026
+delivery_mode,C,2052235,0,0.0067,0.0157,0.983,,,Urban letter carrier: apartment,b2_2026
+delivery_mode,C,30229,-1e-04,0.0068,0.0162,0.987,,,Business / large volume receiver,b2_2026
+delivery_mode,C,2136759,0.0298,0.0743,0.1013,0.56,,,Rural postal code,b2_2026
+delivery_mode,C,155273,0.0294,0.078,0.1081,0.41,,,Rural route / suburban service,b2_2026
+delivery_mode,C,31943,0.0022,0.0661,0.0918,0.641,,,PO box / general delivery / other,b2_2026
+delivery_mode,C,4123,0.0281,0.0698,0.1003,0.436,,,Unknown / retired,b2_2026
+overall,A,12376946,0.0082,0.0309,0.0574,0.877,-0.0042,,,pix_mean
+overall,B,12376946,0.0071,0.0353,0.0697,0.828,2e-04,,,pix_mean
+overall,C,12376946,0.0082,0.0351,0.0674,0.84,,,,pix_mean
+Link_Source,A,6934667,1e-04,0.0175,0.0386,0.921,0,F,,pix_mean
+Link_Source,A,2368596,0.042,0.0768,0.102,0.589,-0.0191,C,,pix_mean
+Link_Source,A,3070885,4e-04,0.0256,0.0434,0.894,-0.0021,D,,pix_mean
+Link_Source,A,737,0.0615,0.0908,0.1215,0.486,-0.0109,5,,pix_mean
+Link_Source,A,2061,0.0997,0.1207,0.1606,0.257,-0.0146,4,,pix_mean
+Link_Source,B,6934667,1e-04,0.0175,0.0386,0.921,0,F,,pix_mean
+Link_Source,B,2368596,0.0361,0.0987,0.1324,0.428,0.0028,C,,pix_mean
+Link_Source,B,3070885,6e-04,0.0263,0.0517,0.856,-0.0013,D,,pix_mean
+Link_Source,B,737,0.076,0.1181,0.1406,0.302,0.0164,5,,pix_mean
+Link_Source,B,2061,0.1307,0.1555,0.2043,0.185,0.0201,4,,pix_mean
+Link_Source,C,6934667,1e-04,0.0175,0.0386,0.921,,F,,pix_mean
+Link_Source,C,2368596,0.042,0.0959,0.126,0.463,,C,,pix_mean
+Link_Source,C,3070885,4e-04,0.0276,0.0516,0.855,,D,,pix_mean
+Link_Source,C,737,0.0598,0.1016,0.1319,0.444,,5,,pix_mean
+Link_Source,C,2061,0.1,0.1353,0.1774,0.197,,4,,pix_mean
+delivery_mode,A,7979760,5e-04,0.0205,0.0405,0.91,-8e-04,,Urban letter carrier: house,pix_mean
+delivery_mode,A,2050397,-7e-04,0.0189,0.0403,0.897,0,,Urban letter carrier: apartment,pix_mean
+delivery_mode,A,30216,1e-04,0.0164,0.0368,0.938,-1e-04,,Business / large volume receiver,pix_mean
+delivery_mode,A,2125462,0.0431,0.0774,0.1022,0.574,-0.0196,,Rural postal code,pix_mean
+delivery_mode,A,155098,0.0402,0.0775,0.1071,0.383,-0.0172,,Rural route / suburban service,pix_mean
+delivery_mode,A,31926,0.0171,0.0741,0.0996,0.601,-0.0123,,PO box / general delivery / other,pix_mean
+delivery_mode,A,4087,0.0652,0.0913,0.1302,0.397,-0.0095,,Unknown / retired,pix_mean
+delivery_mode,B,7979760,5e-04,0.0208,0.044,0.895,-6e-04,,Urban letter carrier: house,pix_mean
+delivery_mode,B,2050397,-4e-04,0.0191,0.0411,0.894,1e-04,,Urban letter carrier: apartment,pix_mean
+delivery_mode,B,30216,0,0.0164,0.037,0.937,-1e-04,,Business / large volume receiver,pix_mean
+delivery_mode,B,2125462,0.0367,0.1001,0.1337,0.403,0.0031,,Rural postal code,pix_mean
+delivery_mode,B,155098,0.0424,0.0962,0.1311,0.274,0.0015,,Rural route / suburban service,pix_mean
+delivery_mode,B,31926,0.0032,0.0876,0.1191,0.526,0.0011,,PO box / general delivery / other,pix_mean
+delivery_mode,B,4087,0.0833,0.114,0.1611,0.267,0.0132,,Unknown / retired,pix_mean
+delivery_mode,C,7979760,5e-04,0.0214,0.0441,0.894,,,Urban letter carrier: house,pix_mean
+delivery_mode,C,2050397,-7e-04,0.0189,0.0408,0.895,,,Urban letter carrier: apartment,pix_mean
+delivery_mode,C,30216,0,0.0165,0.0374,0.936,,,Business / large volume receiver,pix_mean
+delivery_mode,C,2125462,0.0432,0.097,0.1268,0.443,,,Rural postal code,pix_mean
+delivery_mode,C,155098,0.0403,0.0947,0.127,0.283,,,Rural route / suburban service,pix_mean
+delivery_mode,C,31926,0.0168,0.0864,0.1173,0.522,,,PO box / general delivery / other,pix_mean
+delivery_mode,C,4087,0.0651,0.1008,0.1426,0.343,,,Unknown / retired,pix_mean
+overall,A,12396809,0.0068,0.0217,0.0438,0.922,-0.0034,,,b1_mean
+overall,B,12396809,0.0061,0.0252,0.0544,0.884,0,,,b1_mean
+overall,C,12396809,0.0068,0.0251,0.0527,0.892,,,,b1_mean
+Link_Source,A,6941466,1e-04,0.0097,0.0217,0.972,0,F,,b1_mean
+Link_Source,A,2378363,0.0348,0.0651,0.0877,0.654,-0.016,C,,b1_mean
+Link_Source,A,3074147,4e-04,0.0151,0.0265,0.956,-0.0015,D,,b1_mean
+Link_Source,A,739,0.0411,0.0808,0.1175,0.406,-0.0053,5,,b1_mean
+Link_Source,A,2094,0.0714,0.0916,0.1263,0.332,-0.0114,4,,b1_mean
+Link_Source,B,6941466,1e-04,0.0097,0.0217,0.972,0,F,,b1_mean
+Link_Source,B,2378363,0.0307,0.0824,0.1126,0.501,0.0013,C,,b1_mean
+Link_Source,B,3074147,7e-04,0.0157,0.0326,0.935,-9e-04,D,,b1_mean
+Link_Source,B,739,0.0558,0.0831,0.1213,0.335,-0.0029,5,,b1_mean
+Link_Source,B,2094,0.104,0.1324,0.1763,0.28,0.0295,4,,b1_mean
+Link_Source,C,6941466,1e-04,0.0097,0.0217,0.972,,F,,b1_mean
+Link_Source,C,2378363,0.0348,0.0811,0.1083,0.533,,C,,b1_mean
+Link_Source,C,3074147,4e-04,0.0166,0.0322,0.936,,D,,b1_mean
+Link_Source,C,739,0.0384,0.0861,0.1225,0.41,,5,,b1_mean
+Link_Source,C,2094,0.0716,0.103,0.1399,0.265,,4,,b1_mean
+delivery_mode,A,7988160,4e-04,0.0119,0.0241,0.965,-6e-04,,Urban letter carrier: house,b1_mean
+delivery_mode,A,2052090,-2e-04,0.0099,0.0215,0.968,0,,Urban letter carrier: apartment,b1_mean
+delivery_mode,A,30229,6e-04,0.0094,0.0215,0.978,-1e-04,,Business / large volume receiver,b1_mean
+delivery_mode,A,2134977,0.0358,0.0656,0.0879,0.642,-0.0165,,Rural postal code,b1_mean
+delivery_mode,A,155286,0.0343,0.0681,0.0951,0.477,-0.014,,Rural route / suburban service,b1_mean
+delivery_mode,A,31944,0.0083,0.0615,0.0841,0.675,-0.0093,,PO box / general delivery / other,b1_mean
+delivery_mode,A,4123,0.0404,0.0771,0.1099,0.426,-0.0068,,Unknown / retired,b1_mean
+delivery_mode,B,7988160,4e-04,0.0121,0.0268,0.957,-4e-04,,Urban letter carrier: house,b1_mean
+delivery_mode,B,2052090,-1e-04,0.01,0.0224,0.965,1e-04,,Urban letter carrier: apartment,b1_mean
+delivery_mode,B,30229,5e-04,0.0093,0.0214,0.978,-2e-04,,Business / large volume receiver,b1_mean
+delivery_mode,B,2134977,0.0311,0.0837,0.1136,0.477,0.0016,,Rural postal code,b1_mean
+delivery_mode,B,155286,0.0402,0.0822,0.1142,0.359,1e-04,,Rural route / suburban service,b1_mean
+delivery_mode,B,31944,-0.0043,0.0714,0.0991,0.604,6e-04,,PO box / general delivery / other,b1_mean
+delivery_mode,B,4123,0.0593,0.0984,0.1413,0.336,0.0146,,Unknown / retired,b1_mean
+delivery_mode,C,7988160,4e-04,0.0125,0.0268,0.957,,,Urban letter carrier: house,b1_mean
+delivery_mode,C,2052090,-2e-04,0.01,0.0219,0.966,,,Urban letter carrier: apartment,b1_mean
+delivery_mode,C,30229,5e-04,0.0095,0.022,0.977,,,Business / large volume receiver,b1_mean
+delivery_mode,C,2134977,0.0359,0.0821,0.109,0.514,,,Rural postal code,b1_mean
+delivery_mode,C,155286,0.0345,0.0821,0.112,0.369,,,Rural route / suburban service,b1_mean
+delivery_mode,C,31944,0.0083,0.0707,0.0963,0.613,,,PO box / general delivery / other,b1_mean
+delivery_mode,C,4123,0.0401,0.0838,0.1189,0.388,,,Unknown / retired,b1_mean
+overall,A,12400158,0.0057,0.0175,0.0381,0.939,-0.0029,,,b2_mean
+overall,B,12400158,0.0054,0.0203,0.0472,0.909,-1e-04,,,b2_mean
+overall,C,12400158,0.0057,0.0204,0.0462,0.913,,,,b2_mean
+Link_Source,A,6941948,1e-04,0.0067,0.0154,0.985,0,F,,b2_mean
+Link_Source,A,2380775,0.0287,0.0576,0.0796,0.697,-0.0138,C,,b2_mean
+Link_Source,A,3074602,3e-04,0.0109,0.0201,0.974,-0.0011,D,,b2_mean
+Link_Source,A,739,0.0252,0.0821,0.1113,0.328,-0.003,5,,b2_mean
+Link_Source,A,2094,0.0513,0.078,0.1054,0.381,-0.0105,4,,b2_mean
+Link_Source,B,6941948,1e-04,0.0067,0.0154,0.985,0,F,,b2_mean
+Link_Source,B,2380775,0.0268,0.0716,0.1003,0.558,2e-04,C,,b2_mean
+Link_Source,B,3074602,5e-04,0.0114,0.025,0.961,-7e-04,D,,b2_mean
+Link_Source,B,739,0.038,0.069,0.1105,0.289,-0.0161,5,,b2_mean
+Link_Source,B,2094,0.0859,0.1099,0.153,0.339,0.0214,4,,b2_mean
+Link_Source,C,6941948,1e-04,0.0067,0.0154,0.985,,F,,b2_mean
+Link_Source,C,2380775,0.0288,0.0714,0.098,0.582,,C,,b2_mean
+Link_Source,C,3074602,3e-04,0.012,0.0247,0.961,,D,,b2_mean
+Link_Source,C,739,0.0226,0.0851,0.1168,0.322,,5,,b2_mean
+Link_Source,C,2094,0.0515,0.0885,0.1191,0.304,,4,,b2_mean
+delivery_mode,A,7988952,2e-04,0.0085,0.018,0.98,-5e-04,,Urban letter carrier: house,b2_mean
+delivery_mode,A,2052235,0,0.0065,0.0147,0.984,0,,Urban letter carrier: apartment,b2_mean
+delivery_mode,A,30229,-2e-04,0.0063,0.0151,0.988,-1e-04,,Business / large volume receiver,b2_mean
+delivery_mode,A,2137368,0.0297,0.0579,0.0796,0.688,-0.0143,,Rural postal code,b2_mean
+delivery_mode,A,155301,0.0285,0.0623,0.0882,0.543,-0.0119,,Rural route / suburban service,b2_mean
+delivery_mode,A,31950,0.004,0.0541,0.077,0.71,-0.0091,,PO box / general delivery / other,b2_mean
+delivery_mode,A,4123,0.0301,0.0668,0.0946,0.462,-0.0059,,Unknown / retired,b2_mean
+delivery_mode,B,7988952,3e-04,0.0087,0.0201,0.976,-3e-04,,Urban letter carrier: house,b2_mean
+delivery_mode,B,2052235,1e-04,0.0067,0.0157,0.982,1e-04,,Urban letter carrier: apartment,b2_mean
+delivery_mode,B,30229,-4e-04,0.0064,0.0153,0.988,0,,Business / large volume receiver,b2_mean
+delivery_mode,B,2137368,0.0269,0.0724,0.1009,0.538,2e-04,,Rural postal code,b2_mean
+delivery_mode,B,155301,0.0394,0.0751,0.1062,0.42,9e-04,,Rural route / suburban service,b2_mean
+delivery_mode,B,31950,-0.0061,0.062,0.0887,0.646,-0.0012,,PO box / general delivery / other,b2_mean
+delivery_mode,B,4123,0.0496,0.0808,0.1233,0.384,0.0081,,Unknown / retired,b2_mean
+delivery_mode,C,7988952,2e-04,0.009,0.0201,0.976,,,Urban letter carrier: house,b2_mean
+delivery_mode,C,2052235,0,0.0066,0.0152,0.983,,,Urban letter carrier: apartment,b2_mean
+delivery_mode,C,30229,-2e-04,0.0064,0.0155,0.988,,,Business / large volume receiver,b2_mean
+delivery_mode,C,2137368,0.0297,0.0722,0.0985,0.566,,,Rural postal code,b2_mean
+delivery_mode,C,155301,0.0286,0.0741,0.1035,0.433,,,Rural route / suburban service,b2_mean
+delivery_mode,C,31950,0.004,0.0632,0.0884,0.65,,,PO box / general delivery / other,b2_mean
+delivery_mode,C,4123,0.0298,0.0727,0.1037,0.415,,,Unknown / retired,b2_mean

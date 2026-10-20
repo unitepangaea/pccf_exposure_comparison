@@ -1,0 +1,14 @@
+block,level,postal_codes,addresses,pct_addresses,mean_candidates,mean_effective_candidates,pct_multi_da,mean_sd_candidate_evi,pct_multi_quintile_mat,mean_max_pi_mat
+All,All addresses,746916,12410638,100,2.69,2.27,26.1,0.013,21.6,0.907
+Link source,F,529901,6942142,55.9,1,1,0,0,0,1
+Link source,C,9435,2387883,19.2,7.38,5.21,94.1,0.0547,86.9,0.636
+Link source,D,207365,3077779,24.8,2.86,2.86,32.3,0.0099,19.7,0.917
+Link source,5,108,740,0,3.7,2.73,82.2,0.0287,78,0.689
+Link source,4,107,2094,0,10.03,5.45,100,0.0514,99.6,0.57
+Delivery mode,Urban LC: house,713057,7989501,64.4,1.69,1.68,12.5,0.0039,7.7,0.968
+Delivery mode,Urban LC: apartment,25180,2052235,16.5,1.08,1.08,1.3,4e-04,0.6,0.997
+Delivery mode,Business / LVR,766,30229,0.2,1.07,1.07,0.7,3e-04,0.3,0.998
+Delivery mode,Rural postal code,4941,2147208,17.3,7.75,5.54,95.3,0.0562,88,0.627
+Delivery mode,Rural route / suburban,826,155388,1.3,5.42,3.22,95.3,0.049,90.8,0.666
+Delivery mode,PO box / general delivery,1840,31953,0.3,5.3,4,65.6,0.0334,58.9,0.759
+Delivery mode,Unknown / retired,333,4124,0,6.17,3.66,66.2,0.0316,65.2,0.721

@@ -1,0 +1,92 @@
+grouping,N,B_median_m,Bll_median_m,B_mean_m,Bll_mean_m,B_pct_same_da,Bll_pct_same_da,pct_centroid_moved_gt_10m,Link_Source,delivery_mode,part,method,bias,mae,rmse,pearson_r,mean_delta_vs_C,pct_misclassified,pct_more_deprived,pct_less_deprived,pct_off_2plus,kappa_linear,pct_assigned_q1,pct_assigned_q5,pct_ref_q1,pct_ref_q5,dimension
+overall,12410638,78,78,1111,1111,80.31,80.31,1.46,,,position,,,,,,,,,,,,,,,,
+Link_Source,6942142,53,53,102,102,96.84,96.84,0,F,,position,,,,,,,,,,,,,,,,
+Link_Source,2387883,2350,2350,5179,5179,29.08,29.07,7.42,C,,position,,,,,,,,,,,,,,,,
+Link_Source,3077779,80,80,228,228,82.85,82.85,0.11,D,,position,,,,,,,,,,,,,,,,
+Link_Source,740,2014,2014,3658,3658,5.54,5.54,2.43,5,,position,,,,,,,,,,,,,,,,
+Link_Source,2094,2538,2538,6424,6423,10.36,10.36,0,4,,position,,,,,,,,,,,,,,,,
+delivery_mode,7989501,63,63,160,160,91.74,91.74,0.04,,Urban letter carrier: house,position,,,,,,,,,,,,,,,,
+delivery_mode,2052235,53,53,94,94,94.4,94.4,0.01,,Urban letter carrier: apartment,position,,,,,,,,,,,,,,,,
+delivery_mode,30229,48,48,129,129,91.95,91.95,0,,Business / large volume receiver,position,,,,,,,,,,,,,,,,
+delivery_mode,2147208,2343,2343,5277,5277,28.28,28.28,7.89,,Rural postal code,position,,,,,,,,,,,,,,,,
+delivery_mode,155388,2947,2947,3941,3941,37.27,37.27,2.26,,Rural route / suburban service,position,,,,,,,,,,,,,,,,
+delivery_mode,31953,2321,2322,10923,10922,20.55,20.57,12.85,,PO box / general delivery / other,position,,,,,,,,,,,,,,,,
+delivery_mode,4124,2350,2350,4657,4656,13.09,13.09,0.44,,Unknown / retired,position,,,,,,,,,,,,,,,,
+overall,12397522,,,,,,,,,,evi_b1_mean,B,0.0062,0.0252,0.0545,0.884,,,,,,,,,,,
+overall,12397522,,,,,,,,,,evi_b1_mean,B_latlon,0.0062,0.0252,0.0544,0.884,,,,,,,,,,,
+Link_Source,6941466,,,,,,,,F,,evi_b1_mean,B,1e-04,0.0097,0.0217,0.972,,,,,,,,,,,
+Link_Source,2378886,,,,,,,,C,,evi_b1_mean,B,0.0307,0.0824,0.1126,0.501,,,,,,,,,,,
+Link_Source,3074337,,,,,,,,D,,evi_b1_mean,B,8e-04,0.0158,0.0328,0.934,,,,,,,,,,,
+Link_Source,739,,,,,,,,5,,evi_b1_mean,B,0.0558,0.0831,0.1213,0.335,,,,,,,,,,,
+Link_Source,2094,,,,,,,,4,,evi_b1_mean,B,0.104,0.1324,0.1763,0.28,,,,,,,,,,,
+Link_Source,6941466,,,,,,,,F,,evi_b1_mean,B_latlon,1e-04,0.0097,0.0217,0.972,,,,,,,,,,,
+Link_Source,2378886,,,,,,,,C,,evi_b1_mean,B_latlon,0.0306,0.0824,0.1125,0.502,,,,,,,,,,,
+Link_Source,3074337,,,,,,,,D,,evi_b1_mean,B_latlon,8e-04,0.0158,0.0328,0.934,,,,,,,,,,,
+Link_Source,739,,,,,,,,5,,evi_b1_mean,B_latlon,0.0558,0.0832,0.1213,0.335,,,,,,,,,,,
+Link_Source,2094,,,,,,,,4,,evi_b1_mean,B_latlon,0.104,0.1324,0.1763,0.28,,,,,,,,,,,
+delivery_mode,7988350,,,,,,,,,Urban letter carrier: house,evi_b1_mean,B,5e-04,0.0122,0.0269,0.957,,,,,,,,,,,
+delivery_mode,2052090,,,,,,,,,Urban letter carrier: apartment,evi_b1_mean,B,-1e-04,0.01,0.0223,0.965,,,,,,,,,,,
+delivery_mode,30229,,,,,,,,,Business / large volume receiver,evi_b1_mean,B,5e-04,0.0094,0.0216,0.977,,,,,,,,,,,
+delivery_mode,2135500,,,,,,,,,Rural postal code,evi_b1_mean,B,0.0311,0.0837,0.1136,0.477,,,,,,,,,,,
+delivery_mode,155286,,,,,,,,,Rural route / suburban service,evi_b1_mean,B,0.0402,0.0822,0.1142,0.359,,,,,,,,,,,
+delivery_mode,31944,,,,,,,,,PO box / general delivery / other,evi_b1_mean,B,-0.0043,0.0714,0.0991,0.604,,,,,,,,,,,
+delivery_mode,4123,,,,,,,,,Unknown / retired,evi_b1_mean,B,0.0593,0.0984,0.1413,0.337,,,,,,,,,,,
+delivery_mode,7988350,,,,,,,,,Urban letter carrier: house,evi_b1_mean,B_latlon,5e-04,0.0122,0.0269,0.957,,,,,,,,,,,
+delivery_mode,2052090,,,,,,,,,Urban letter carrier: apartment,evi_b1_mean,B_latlon,-1e-04,0.01,0.0223,0.965,,,,,,,,,,,
+delivery_mode,30229,,,,,,,,,Business / large volume receiver,evi_b1_mean,B_latlon,5e-04,0.0094,0.0216,0.977,,,,,,,,,,,
+delivery_mode,2135500,,,,,,,,,Rural postal code,evi_b1_mean,B_latlon,0.0311,0.0837,0.1135,0.478,,,,,,,,,,,
+delivery_mode,155286,,,,,,,,,Rural route / suburban service,evi_b1_mean,B_latlon,0.0401,0.082,0.1141,0.36,,,,,,,,,,,
+delivery_mode,31944,,,,,,,,,PO box / general delivery / other,evi_b1_mean,B_latlon,-0.0045,0.0713,0.099,0.605,,,,,,,,,,,
+delivery_mode,4123,,,,,,,,,Unknown / retired,evi_b1_mean,B_latlon,0.0593,0.0984,0.1413,0.337,,,,,,,,,,,
+overall,11728470,,,,,,,,,,quintile,B,,,,,,12.58,6.14,6.44,4.82,0.8823,20.74,19.62,20.68,19.87,mat
+overall,11728470,,,,,,,,,,quintile,B_latlon,,,,,,12.58,6.13,6.44,4.82,0.8824,20.74,19.6,20.68,19.87,mat
+Link_Source,6546961,,,,,,,,F,,quintile,B,,,,,,1.76,0.88,0.88,0.66,0.9839,23.99,21.7,24,21.69,mat
+Link_Source,2237938,,,,,,,,C,,quintile,B,,,,,,46.87,22.73,24.13,18.52,0.5101,11.02,20.63,10.8,21.83,mat
+Link_Source,2940815,,,,,,,,D,,quintile,B,,,,,,10.52,5.18,5.34,3.65,0.8988,20.9,14.23,20.79,14.33,mat
+Link_Source,709,,,,,,,,5,,quintile,B,,,,,,35.4,10.16,25.25,20.59,0.6483,31.45,11.28,31.17,27.79,mat
+Link_Source,2047,,,,,,,,4,,quintile,B,,,,,,71.86,58.82,13.04,37.18,0.097,11.43,2.05,41.82,8.11,mat
+Link_Source,6546961,,,,,,,,F,,quintile,B_latlon,,,,,,1.76,0.88,0.88,0.66,0.9839,23.99,21.7,24,21.69,mat
+Link_Source,2237938,,,,,,,,C,,quintile,B_latlon,,,,,,46.85,22.69,24.15,18.48,0.5106,11.02,20.53,10.8,21.83,mat
+Link_Source,2940815,,,,,,,,D,,quintile,B_latlon,,,,,,10.52,5.18,5.34,3.65,0.8988,20.9,14.23,20.79,14.33,mat
+Link_Source,709,,,,,,,,5,,quintile,B_latlon,,,,,,35.4,10.16,25.25,20.59,0.6483,31.45,11.28,31.17,27.79,mat
+Link_Source,2047,,,,,,,,4,,quintile,B_latlon,,,,,,71.86,58.82,13.04,37.18,0.097,11.43,2.05,41.82,8.11,mat
+delivery_mode,7645597,,,,,,,,,Urban letter carrier: house,quintile,B,,,,,,5.02,2.47,2.54,1.75,0.9542,20.73,19.24,20.69,19.27,mat
+delivery_mode,1868813,,,,,,,,,Urban letter carrier: apartment,quintile,B,,,,,,3.05,1.55,1.51,1.17,0.9723,32.26,20.04,32.25,20.06,mat
+delivery_mode,22660,,,,,,,,,Business / large volume receiver,quintile,B,,,,,,3.38,1.29,2.1,2,0.9582,40.47,9.68,39.94,9.64,mat
+delivery_mode,2012832,,,,,,,,,Rural postal code,quintile,B,,,,,,47.28,22.81,24.47,18.53,0.5013,10.13,21.56,9.84,22.95,mat
+delivery_mode,146654,,,,,,,,,Rural route / suburban service,quintile,B,,,,,,44.08,22.57,21.52,18.75,0.5049,16.55,10.86,17.33,10,mat
+delivery_mode,27900,,,,,,,,,PO box / general delivery / other,quintile,B,,,,,,54.32,27.6,26.71,27.86,0.3574,23.65,12.29,24.16,12.38,mat
+delivery_mode,4014,,,,,,,,,Unknown / retired,quintile,B,,,,,,63,48.63,14.37,35.5,0.2663,13.95,5.68,29.37,11.53,mat
+delivery_mode,7645597,,,,,,,,,Urban letter carrier: house,quintile,B_latlon,,,,,,5.02,2.47,2.54,1.75,0.9542,20.73,19.24,20.69,19.27,mat
+delivery_mode,1868813,,,,,,,,,Urban letter carrier: apartment,quintile,B_latlon,,,,,,3.05,1.55,1.51,1.17,0.9723,32.26,20.04,32.25,20.06,mat
+delivery_mode,22660,,,,,,,,,Business / large volume receiver,quintile,B_latlon,,,,,,3.38,1.29,2.1,2,0.9582,40.47,9.68,39.94,9.64,mat
+delivery_mode,2012832,,,,,,,,,Rural postal code,quintile,B_latlon,,,,,,47.26,22.76,24.5,18.49,0.5019,10.13,21.44,9.84,22.95,mat
+delivery_mode,146654,,,,,,,,,Rural route / suburban service,quintile,B_latlon,,,,,,44.08,22.57,21.52,18.75,0.5049,16.55,10.86,17.33,10,mat
+delivery_mode,27900,,,,,,,,,PO box / general delivery / other,quintile,B_latlon,,,,,,54.3,27.6,26.71,27.85,0.3576,23.64,12.28,24.16,12.38,mat
+delivery_mode,4014,,,,,,,,,Unknown / retired,quintile,B_latlon,,,,,,63,48.63,14.37,35.5,0.2663,13.95,5.68,29.37,11.53,mat
+overall,11728470,,,,,,,,,,quintile,B,,,,,,12.95,5.91,7.04,5,0.8718,12.86,28.04,12.46,28.4,soc
+overall,11728470,,,,,,,,,,quintile,B_latlon,,,,,,12.95,5.9,7.05,4.99,0.8719,12.86,28.01,12.46,28.4,soc
+Link_Source,6546961,,,,,,,,F,,quintile,B,,,,,,1.79,0.98,0.82,0.64,0.9808,7.67,40.42,7.73,40.34,soc
+Link_Source,2237938,,,,,,,,C,,quintile,B,,,,,,48.99,21.65,27.34,19.08,0.3905,15.85,4.73,13.59,6.49,soc
+Link_Source,2940815,,,,,,,,D,,quintile,B,,,,,,10.32,4.89,5.43,3.96,0.9014,22.14,18.21,22.11,18.51,soc
+Link_Source,709,,,,,,,,5,,quintile,B,,,,,,58.67,27.08,31.59,31.45,0.2159,38.79,10.44,18.05,36.53,soc
+Link_Source,2047,,,,,,,,4,,quintile,B,,,,,,55.35,21.35,34,51.25,0.2253,11.19,21.49,9.23,28.38,soc
+Link_Source,6546961,,,,,,,,F,,quintile,B_latlon,,,,,,1.79,0.98,0.82,0.64,0.9808,7.67,40.42,7.73,40.34,soc
+Link_Source,2237938,,,,,,,,C,,quintile,B_latlon,,,,,,49.01,21.62,27.39,19.02,0.3906,15.85,4.61,13.59,6.49,soc
+Link_Source,2940815,,,,,,,,D,,quintile,B_latlon,,,,,,10.32,4.89,5.43,3.96,0.9014,22.14,18.21,22.11,18.51,soc
+Link_Source,709,,,,,,,,5,,quintile,B_latlon,,,,,,58.67,27.08,31.59,31.45,0.2159,38.79,10.44,18.05,36.53,soc
+Link_Source,2047,,,,,,,,4,,quintile,B_latlon,,,,,,55.35,21.35,34,51.25,0.2253,11.19,21.49,9.23,28.38,soc
+delivery_mode,7645597,,,,,,,,,Urban letter carrier: house,quintile,B,,,,,,4.97,2.42,2.55,1.89,0.9522,14.86,26.92,14.86,26.99,soc
+delivery_mode,1868813,,,,,,,,,Urban letter carrier: apartment,quintile,B,,,,,,3.04,1.58,1.46,1.13,0.9474,1.66,59.75,1.73,59.65,soc
+delivery_mode,22660,,,,,,,,,Business / large volume receiver,quintile,B,,,,,,2.87,1.55,1.32,1.93,0.9434,2.86,61.02,3.46,60.66,soc
+delivery_mode,2012832,,,,,,,,,Rural postal code,quintile,B,,,,,,49.82,21.95,27.88,19.62,0.3708,14.74,4.55,12.47,6.5,soc
+delivery_mode,146654,,,,,,,,,Rural route / suburban service,quintile,B,,,,,,41.19,19.2,21.99,12.23,0.4549,24.82,2.22,23.7,1.89,soc
+delivery_mode,27900,,,,,,,,,PO box / general delivery / other,quintile,B,,,,,,56.78,25.97,30.81,22.73,0.411,25.15,14.83,20.39,16.2,soc
+delivery_mode,4014,,,,,,,,,Unknown / retired,quintile,B,,,,,,58.59,26.53,32.06,37.47,0.2711,15.12,17.91,13.95,23.07,soc
+delivery_mode,7645597,,,,,,,,,Urban letter carrier: house,quintile,B_latlon,,,,,,4.97,2.42,2.55,1.89,0.9522,14.86,26.92,14.86,26.99,soc
+delivery_mode,1868813,,,,,,,,,Urban letter carrier: apartment,quintile,B_latlon,,,,,,3.04,1.58,1.46,1.13,0.9474,1.66,59.75,1.73,59.65,soc
+delivery_mode,22660,,,,,,,,,Business / large volume receiver,quintile,B_latlon,,,,,,2.87,1.55,1.32,1.93,0.9434,2.86,61.02,3.46,60.66,soc
+delivery_mode,2012832,,,,,,,,,Rural postal code,quintile,B_latlon,,,,,,49.84,21.91,27.93,19.55,0.3708,14.73,4.42,12.47,6.5,soc
+delivery_mode,146654,,,,,,,,,Rural route / suburban service,quintile,B_latlon,,,,,,41.19,19.2,21.99,12.23,0.4549,24.82,2.22,23.7,1.89,soc
+delivery_mode,27900,,,,,,,,,PO box / general delivery / other,quintile,B_latlon,,,,,,56.75,25.93,30.82,22.69,0.412,25.19,14.8,20.39,16.2,soc
+delivery_mode,4014,,,,,,,,,Unknown / retired,quintile,B_latlon,,,,,,58.59,26.53,32.06,37.47,0.2711,15.12,17.91,13.95,23.07,soc

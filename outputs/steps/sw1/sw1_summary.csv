@@ -1,0 +1,6 @@
+Link_Source,postal_codes,addresses,candidates,mean_n_cand,addr_weighted_n_eff,pct_multi_da,fallback_pcodes,realized_in_set_pct
+4,107,2094,1022,9.55,5.45,100,0,100
+5,108,740,373,3.45,2.73,80.6,0,100
+C,9443,2389934,34725,3.68,5.21,67.6,0,100
+D,209341,3175237,536337,2.56,2.67,28.4,20,100
+F,535479,7074815,535479,1,1,0,0,0

@@ -1,0 +1,16 @@
+block,level,N,A_expected_median_m,B_median_m,C_median_m,A_expected_mean_m,B_mean_m,C_mean_m,A_pct_weight_in_ref_da,B_pct_same_da,C_pct_same_da
+All,All addresses,12410638,87,78,81,1433,1110,1424,80.6,80.4,80.6
+Delivery mode,Urban LC: house,7989501,72,63,65,175,159,173,91.8,91.9,91.8
+Delivery mode,Urban LC: apartment,2052235,54,53,53,97,95,96,94.7,94.4,94.7
+Delivery mode,Business / LVR,30229,48,48,48,130,128,130,92.2,92,92.2
+Delivery mode,Rural postal code,2147208,4202,2344,3125,6961,5277,6926,29.5,28.3,29.6
+Delivery mode,Rural route / suburban,155388,4399,2947,3762,5294,3941,5205,37,37.3,36.9
+Delivery mode,PO box / general delivery,31953,3307,2321,2429,12288,10923,12330,22,20.5,21.8
+Delivery mode,Unknown / retired,4124,2438,2350,2434,5188,4645,5107,12.2,13.1,11.9
+Rurality,CMA,8761718,69,62,63,334,261,330,89.6,89.7,89.6
+Rurality,CA,1413322,92,82,84,975,739,963,81.1,80.9,81.2
+Rurality,Strong MIZ,739531,3376,1783,2367,4721,3480,4685,39.5,39.4,39.6
+Rurality,Moderate MIZ,931063,3440,1714,2093,7226,5838,7198,46.8,46.4,46.9
+Rurality,Weak MIZ,510939,2655,1189,1046,5550,4094,5561,48.2,45.7,48.3
+Rurality,No MIZ,44110,4597,2913,2218,7983,6391,8008,54.9,39.4,54.8
+Rurality,Territories,9955,1828,1341,990,6826,6081,6879,49.3,39.5,49.3

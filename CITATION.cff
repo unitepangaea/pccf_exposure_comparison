@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, the portable function or the aggregate tables, please cite the paper below."
+title: "Population-Weighted Exposure Assignment from Residential Postal Codes: code, portable R function and aggregate results"
+authors:
+  - family-names: Peters
+    given-names: Paul A.
+    affiliation: "Department of Health Sciences, Carleton University"
+    orcid: "https://orcid.org/0000-0001-5225-2005"
+  - family-names: McGaughey
+    given-names: Tomoko
+    affiliation: "Department of Health Sciences, Carleton University"
+    orcid: "https://orcid.org/0000-0001-5789-7785"
+license: MIT
+repository-code: "https://github.com/unitepangaea/pccf_exposure_comparison"
+preferred-citation:
+  type: article
+  title: "Population-Weighted Exposure Assignment from Residential Postal Codes: a National Comparison of Methods"
+  authors:
+    - family-names: Peters
+      given-names: Paul A.
+    - family-names: McGaughey
+      given-names: Tomoko
+  journal: "Preprints"
+  year: 2026
+  # doi: "10.20944/preprints2026XX.XXXX.v1"   (add when the preprint is posted)
+references:
+  - type: article
+    title: "Postal Code Geocoding Error and Exposure Misclassification in Canada: A National Validation of PCCF+ against National Address Registers"
+    authors:
+      - family-names: Peters
+        given-names: Paul A.
+      - family-names: McGaughey
+        given-names: Tomoko
+    journal: "Preprints"
+    year: 2026
+    doi: "10.20944/preprints202610.1204.v1"

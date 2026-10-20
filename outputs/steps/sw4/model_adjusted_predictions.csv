@@ -1,0 +1,169 @@
+model,delivery_mode,rurality,adjusted_prediction,N,modelled,method
+delta_AC_evi_b1,Urban letter carrier: house,CMA,-0.000475825683382181,6369418,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,CA,-0.000806957667809309,1100832,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,Strong MIZ,-0.00266981579745564,145873,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,Moderate MIZ,-0.00170104897910343,214786,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,Weak MIZ,-0.00140745234462341,155071,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,No MIZ,-0.00436052995237104,2177,TRUE,
+delta_AC_evi_b1,Urban letter carrier: house,Territories,,0,FALSE,
+delta_AC_evi_b1,Urban letter carrier: apartment,CMA,2.61857976194112e-05,1946723,TRUE,
+delta_AC_evi_b1,Urban letter carrier: apartment,CA,-8.72344871957201e-05,87055,TRUE,
+delta_AC_evi_b1,Urban letter carrier: apartment,Strong MIZ,7.54242825867337e-06,2785,TRUE,
+delta_AC_evi_b1,Urban letter carrier: apartment,Moderate MIZ,-0.000137947033401563,9471,TRUE,
+delta_AC_evi_b1,Urban letter carrier: apartment,Weak MIZ,-7.79535435414753e-05,6055,TRUE,
+delta_AC_evi_b1,Urban letter carrier: apartment,No MIZ,,0,FALSE,
+delta_AC_evi_b1,Urban letter carrier: apartment,Territories,,0,FALSE,
+delta_AC_evi_b1,Business / large volume receiver,CMA,-9.24810685854623e-05,27241,TRUE,
+delta_AC_evi_b1,Business / large volume receiver,CA,4.38775610568703e-05,1962,TRUE,
+delta_AC_evi_b1,Business / large volume receiver,Strong MIZ,,0,FALSE,
+delta_AC_evi_b1,Business / large volume receiver,Moderate MIZ,9.76442383721369e-05,636,TRUE,
+delta_AC_evi_b1,Business / large volume receiver,Weak MIZ,-0.000251530256637716,355,TRUE,
+delta_AC_evi_b1,Business / large volume receiver,No MIZ,,0,FALSE,
+delta_AC_evi_b1,Business / large volume receiver,Territories,,0,FALSE,
+delta_AC_evi_b1,Rural postal code,CMA,-0.0186121244149582,355904,TRUE,
+delta_AC_evi_b1,Rural postal code,CA,-0.016095110756414,180395,TRUE,
+delta_AC_evi_b1,Rural postal code,Strong MIZ,-0.0165716766712428,560573,TRUE,
+delta_AC_evi_b1,Rural postal code,Moderate MIZ,-0.0158535049342321,668899,TRUE,
+delta_AC_evi_b1,Rural postal code,Weak MIZ,-0.0167880246091666,323760,TRUE,
+delta_AC_evi_b1,Rural postal code,No MIZ,-0.0107314575772705,40807,TRUE,
+delta_AC_evi_b1,Rural postal code,Territories,-0.00485461741754186,4639,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,CMA,-0.012784531362155,49584,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,CA,-0.0166587940625384,36588,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,Strong MIZ,-0.0144729896975559,25424,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,Moderate MIZ,-0.00898889713701778,28547,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,Weak MIZ,-0.0186738283020332,15060,TRUE,
+delta_AC_evi_b1,Rural route / suburban service,No MIZ,,0,FALSE,
+delta_AC_evi_b1,Rural route / suburban service,Territories,,0,FALSE,
+delta_AC_evi_b1,PO box / general delivery / other,CMA,-0.00222476424313246,8950,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,CA,-0.00702566190434307,5740,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,Strong MIZ,-0.0113161943653859,4106,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,Moderate MIZ,-0.0112536156100912,5801,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,Weak MIZ,-0.0173628879315287,7231,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,No MIZ,-0.0125250953456951,115,TRUE,
+delta_AC_evi_b1,PO box / general delivery / other,Territories,,0,FALSE,
+misclass_mat_by_method,Urban letter carrier: house,CMA,0.0549070666732908,6123495,,A
+misclass_mat_by_method,Urban letter carrier: house,CMA,0.0460491889075015,6123495,,B
+misclass_mat_by_method,Urban letter carrier: house,CMA,0.0464280842128402,6123495,,C
+misclass_mat_by_method,Urban letter carrier: house,CA,0.0664346403153569,1026101,,A
+misclass_mat_by_method,Urban letter carrier: house,CA,0.0564017719527335,1026101,,B
+misclass_mat_by_method,Urban letter carrier: house,CA,0.0561569901516365,1026101,,C
+misclass_mat_by_method,Urban letter carrier: house,Strong MIZ,0.125900997106318,139426,,A
+misclass_mat_by_method,Urban letter carrier: house,Strong MIZ,0.0989063252062304,139426,,B
+misclass_mat_by_method,Urban letter carrier: house,Strong MIZ,0.102331124533084,139426,,C
+misclass_mat_by_method,Urban letter carrier: house,Moderate MIZ,0.0902125579233561,199516,,A
+misclass_mat_by_method,Urban letter carrier: house,Moderate MIZ,0.074155241767795,199516,,B
+misclass_mat_by_method,Urban letter carrier: house,Moderate MIZ,0.0761941382104613,199516,,C
+misclass_mat_by_method,Urban letter carrier: house,Weak MIZ,0.101769506858069,147575,,A
+misclass_mat_by_method,Urban letter carrier: house,Weak MIZ,0.091154585302135,147575,,B
+misclass_mat_by_method,Urban letter carrier: house,Weak MIZ,0.0870791373981321,147575,,C
+misclass_mat_by_method,Urban letter carrier: house,No MIZ,0.0875864024606872,1828,,A
+misclass_mat_by_method,Urban letter carrier: house,No MIZ,0.113204141463569,1828,,B
+misclass_mat_by_method,Urban letter carrier: house,No MIZ,0.0883020988987482,1828,,C
+misclass_mat_by_method,Urban letter carrier: house,Territories,,0,,A
+misclass_mat_by_method,Urban letter carrier: house,Territories,,0,,B
+misclass_mat_by_method,Urban letter carrier: house,Territories,,0,,C
+misclass_mat_by_method,Urban letter carrier: apartment,CMA,0.027210643940204,1785115,,A
+misclass_mat_by_method,Urban letter carrier: apartment,CMA,0.0279999482052798,1785115,,B
+misclass_mat_by_method,Urban letter carrier: apartment,CMA,0.026429840849044,1785115,,C
+misclass_mat_by_method,Urban letter carrier: apartment,CA,0.0320002501650269,69900,,A
+misclass_mat_by_method,Urban letter carrier: apartment,CA,0.0392102556335971,69900,,B
+misclass_mat_by_method,Urban letter carrier: apartment,CA,0.0335930501022027,69900,,C
+misclass_mat_by_method,Urban letter carrier: apartment,Strong MIZ,0.0575437949456602,1862,,A
+misclass_mat_by_method,Urban letter carrier: apartment,Strong MIZ,0.0575437949456599,1862,,B
+misclass_mat_by_method,Urban letter carrier: apartment,Strong MIZ,0.0575437949456602,1862,,C
+misclass_mat_by_method,Urban letter carrier: apartment,Moderate MIZ,0.0571247449686292,7450,,A
+misclass_mat_by_method,Urban letter carrier: apartment,Moderate MIZ,0.059544537616071,7450,,B
+misclass_mat_by_method,Urban letter carrier: apartment,Moderate MIZ,0.0592756701955677,7450,,C
+misclass_mat_by_method,Urban letter carrier: apartment,Weak MIZ,0.0624784801767799,4654,,A
+misclass_mat_by_method,Urban letter carrier: apartment,Weak MIZ,0.0760460147355571,4654,,B
+misclass_mat_by_method,Urban letter carrier: apartment,Weak MIZ,0.0688595987770987,4654,,C
+misclass_mat_by_method,Urban letter carrier: apartment,No MIZ,,0,,A
+misclass_mat_by_method,Urban letter carrier: apartment,No MIZ,,0,,B
+misclass_mat_by_method,Urban letter carrier: apartment,No MIZ,,0,,C
+misclass_mat_by_method,Urban letter carrier: apartment,Territories,,0,,A
+misclass_mat_by_method,Urban letter carrier: apartment,Territories,,0,,B
+misclass_mat_by_method,Urban letter carrier: apartment,Territories,,0,,C
+misclass_mat_by_method,Business / large volume receiver,CMA,0.0279766333357186,21113,,A
+misclass_mat_by_method,Business / large volume receiver,CMA,0.0299100886688586,21113,,B
+misclass_mat_by_method,Business / large volume receiver,CMA,0.0263581750985069,21113,,C
+misclass_mat_by_method,Business / large volume receiver,CA,0.113179210659784,818,,A
+misclass_mat_by_method,Business / large volume receiver,CA,0.113179210659784,818,,B
+misclass_mat_by_method,Business / large volume receiver,CA,0.113179210659783,818,,C
+misclass_mat_by_method,Business / large volume receiver,Strong MIZ,,0,,A
+misclass_mat_by_method,Business / large volume receiver,Strong MIZ,,0,,B
+misclass_mat_by_method,Business / large volume receiver,Strong MIZ,,0,,C
+misclass_mat_by_method,Business / large volume receiver,Moderate MIZ,3.62579553519172e-07,342,,A
+misclass_mat_by_method,Business / large volume receiver,Moderate MIZ,3.62579553519384e-07,342,,B
+misclass_mat_by_method,Business / large volume receiver,Moderate MIZ,3.62579553518842e-07,342,,C
+misclass_mat_by_method,Business / large volume receiver,Weak MIZ,0.016412980256835,350,,A
+misclass_mat_by_method,Business / large volume receiver,Weak MIZ,0.0164129802568349,350,,B
+misclass_mat_by_method,Business / large volume receiver,Weak MIZ,0.0164129802568345,350,,C
+misclass_mat_by_method,Business / large volume receiver,No MIZ,,0,,A
+misclass_mat_by_method,Business / large volume receiver,No MIZ,,0,,B
+misclass_mat_by_method,Business / large volume receiver,No MIZ,,0,,C
+misclass_mat_by_method,Business / large volume receiver,Territories,,0,,A
+misclass_mat_by_method,Business / large volume receiver,Territories,,0,,B
+misclass_mat_by_method,Business / large volume receiver,Territories,,0,,C
+misclass_mat_by_method,Rural postal code,CMA,0.495818048971368,331579,,A
+misclass_mat_by_method,Rural postal code,CMA,0.49631731145547,331579,,B
+misclass_mat_by_method,Rural postal code,CMA,0.492765606985422,331579,,C
+misclass_mat_by_method,Rural postal code,CA,0.495037275029905,172548,,A
+misclass_mat_by_method,Rural postal code,CA,0.501261737559799,172548,,B
+misclass_mat_by_method,Rural postal code,CA,0.490328882483426,172548,,C
+misclass_mat_by_method,Rural postal code,Strong MIZ,0.505501679096958,526543,,A
+misclass_mat_by_method,Rural postal code,Strong MIZ,0.507488765253019,526543,,B
+misclass_mat_by_method,Rural postal code,Strong MIZ,0.493300515475584,526543,,C
+misclass_mat_by_method,Rural postal code,Moderate MIZ,0.445299097625292,597774,,A
+misclass_mat_by_method,Rural postal code,Moderate MIZ,0.438590104416713,597774,,B
+misclass_mat_by_method,Rural postal code,Moderate MIZ,0.438905479666155,597774,,C
+misclass_mat_by_method,Rural postal code,Weak MIZ,0.444847701338269,297977,,A
+misclass_mat_by_method,Rural postal code,Weak MIZ,0.459867005451316,297977,,B
+misclass_mat_by_method,Rural postal code,Weak MIZ,0.450283562167263,297977,,C
+misclass_mat_by_method,Rural postal code,No MIZ,0.364537926559512,34456,,A
+misclass_mat_by_method,Rural postal code,No MIZ,0.405237894128585,34456,,B
+misclass_mat_by_method,Rural postal code,No MIZ,0.284514964417242,34456,,C
+misclass_mat_by_method,Rural postal code,Territories,0.473517020168742,9514,,A
+misclass_mat_by_method,Rural postal code,Territories,0.484303844405339,9514,,B
+misclass_mat_by_method,Rural postal code,Territories,0.414960470885803,9514,,C
+misclass_mat_by_method,Rural route / suburban service,CMA,0.41519079659442,47539,,A
+misclass_mat_by_method,Rural route / suburban service,CMA,0.388311178919332,47539,,B
+misclass_mat_by_method,Rural route / suburban service,CMA,0.388477888036081,47539,,C
+misclass_mat_by_method,Rural route / suburban service,CA,0.538100608235786,33314,,A
+misclass_mat_by_method,Rural route / suburban service,CA,0.471596542184169,33314,,B
+misclass_mat_by_method,Rural route / suburban service,CA,0.482196346105118,33314,,C
+misclass_mat_by_method,Rural route / suburban service,Strong MIZ,0.443679353564619,23485,,A
+misclass_mat_by_method,Rural route / suburban service,Strong MIZ,0.452461755114879,23485,,B
+misclass_mat_by_method,Rural route / suburban service,Strong MIZ,0.423275223227615,23485,,C
+misclass_mat_by_method,Rural route / suburban service,Moderate MIZ,0.520890192745342,24308,,A
+misclass_mat_by_method,Rural route / suburban service,Moderate MIZ,0.44937488601086,24308,,B
+misclass_mat_by_method,Rural route / suburban service,Moderate MIZ,0.446074097578307,24308,,C
+misclass_mat_by_method,Rural route / suburban service,Weak MIZ,0.510534551267198,14998,,A
+misclass_mat_by_method,Rural route / suburban service,Weak MIZ,0.417349146191972,14998,,B
+misclass_mat_by_method,Rural route / suburban service,Weak MIZ,0.426006294419692,14998,,C
+misclass_mat_by_method,Rural route / suburban service,No MIZ,,0,,A
+misclass_mat_by_method,Rural route / suburban service,No MIZ,,0,,B
+misclass_mat_by_method,Rural route / suburban service,No MIZ,,0,,C
+misclass_mat_by_method,Rural route / suburban service,Territories,,0,,A
+misclass_mat_by_method,Rural route / suburban service,Territories,,0,,B
+misclass_mat_by_method,Rural route / suburban service,Territories,,0,,C
+misclass_mat_by_method,PO box / general delivery / other,CMA,0.447475188766496,7446,,A
+misclass_mat_by_method,PO box / general delivery / other,CMA,0.442426925890156,7446,,B
+misclass_mat_by_method,PO box / general delivery / other,CMA,0.448006775014725,7446,,C
+misclass_mat_by_method,PO box / general delivery / other,CA,0.524672019001238,5080,,A
+misclass_mat_by_method,PO box / general delivery / other,CA,0.555381884964307,5080,,B
+misclass_mat_by_method,PO box / general delivery / other,CA,0.507999277045157,5080,,C
+misclass_mat_by_method,PO box / general delivery / other,Strong MIZ,0.473615628040415,3283,,A
+misclass_mat_by_method,PO box / general delivery / other,Strong MIZ,0.647734468553036,3283,,B
+misclass_mat_by_method,PO box / general delivery / other,Strong MIZ,0.52887594350165,3283,,C
+misclass_mat_by_method,PO box / general delivery / other,Moderate MIZ,0.40151474823902,4882,,A
+misclass_mat_by_method,PO box / general delivery / other,Moderate MIZ,0.382485455758318,4882,,B
+misclass_mat_by_method,PO box / general delivery / other,Moderate MIZ,0.426065026011618,4882,,C
+misclass_mat_by_method,PO box / general delivery / other,Weak MIZ,0.570444462323558,5945,,A
+misclass_mat_by_method,PO box / general delivery / other,Weak MIZ,0.649245721515702,5945,,B
+misclass_mat_by_method,PO box / general delivery / other,Weak MIZ,0.542933373725917,5945,,C
+misclass_mat_by_method,PO box / general delivery / other,No MIZ,,0,,A
+misclass_mat_by_method,PO box / general delivery / other,No MIZ,,0,,B
+misclass_mat_by_method,PO box / general delivery / other,No MIZ,,0,,C
+misclass_mat_by_method,PO box / general delivery / other,Territories,,0,,A
+misclass_mat_by_method,PO box / general delivery / other,Territories,,0,,B
+misclass_mat_by_method,PO box / general delivery / other,Territories,,0,,C

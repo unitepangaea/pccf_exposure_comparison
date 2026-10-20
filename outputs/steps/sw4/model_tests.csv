@@ -1,0 +1,3 @@
+model,test,statistic,value,df1,df2,p,N
+delta_AC_evi_b1,delivery mode x rurality,F,394.411426947525,21,12392518,0,12392563
+misclass_mat_by_method,"method x (delivery mode, rurality) interactions",LR chi-square,7475.40866195809,62,,0,11670216
