@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code, the portable function or the aggregate tables, please cite the paper below."
+message: "If you use this code, the portable function or the aggregate tables, please cite the paper below and this archived release (DOI above)."
 title: "Population-Weighted Exposure Assignment from Residential Postal Codes: code, portable R function and aggregate results"
 authors:
   - family-names: Peters
@@ -11,6 +11,7 @@ authors:
     affiliation: "Department of Health Sciences, Carleton University"
     orcid: "https://orcid.org/0000-0001-5789-7785"
 license: MIT
+doi: "10.5281/zenodo.23564909"
 repository-code: "https://github.com/unitepangaea/pccf_exposure_comparison"
 preferred-citation:
   type: article
@@ -36,3 +37,13 @@ references:
     journal: "Preprints"
     year: 2026
     doi: "10.20944/preprints202610.1204.v1"
+  - type: software
+    title: "pccf_nar_validation: code and derived tables"
+    authors:
+      - family-names: Peters
+        given-names: Paul A.
+      - family-names: McGaughey
+        given-names: Tomoko
+    year: 2026
+    doi: "10.5281/zenodo.23564814"
+    repository-code: "https://github.com/unitepangaea/pccf_nar_validation"

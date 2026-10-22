@@ -1,5 +1,7 @@
 # pccf_exposure_comparison
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23564909.svg)](https://doi.org/10.5281/zenodo.23564909)
+
 Code, aggregate results and a portable R function for a national comparison of
 non-random, population-weighted exposure assignment from residential postal codes with
 PCCF+ random allocation, using 12.4 million addresses in the National Address Register as
@@ -8,6 +10,8 @@ the reference.
 > Peters PA, McGaughey T. Population-Weighted Exposure Assignment from Residential Postal
 > Codes: a National Comparison of Methods. *Preprints* 2026 (posted 22 October 2026).
 > https://doi.org/10.20944/preprints202610.2150.v1
+
+Archived code, function and tables (Zenodo): https://doi.org/10.5281/zenodo.23564909
 
 ## Description
 
@@ -72,7 +76,8 @@ every postal code of Prince Edward Island (`scripts/sw7_pcweight_check.R`).
 The analysis extends the PCCF+/NAR validation study and reuses its data and outputs:
 
 1. **Run the validation pipeline.** Clone
-   [pccf_nar_validation](https://github.com/unitepangaea/pccf_nar_validation) next to this
+   [pccf_nar_validation](https://github.com/unitepangaea/pccf_nar_validation)
+   (archived at https://doi.org/10.5281/zenodo.23564814) next to this
    repository (or set `VALIDATION` in `config_local.R`) and run its pipeline. That
    repository explains how to obtain the public data and where to place the licensed PCCF+
    files.
@@ -113,4 +118,8 @@ See `CITATION.cff`, or cite the preprint above (https://doi.org/10.20944/preprin
 The posted preprint is included as [`paper/preprints202610.2150.v1.pdf`](paper/preprints202610.2150.v1.pdf).
 The study builds on the validation of PCCF+ against the NAR
 (https://doi.org/10.20944/preprints202610.1204.v1; code at
-https://github.com/unitepangaea/pccf_nar_validation).
+https://github.com/unitepangaea/pccf_nar_validation, archived at https://doi.org/10.5281/zenodo.23564814).
+
+To cite the code, the portable function or the aggregate tables, also cite the archived release:
+Peters PA, McGaughey T. *pccf_exposure_comparison: code, portable R function and aggregate results*.
+Zenodo; 2026. https://doi.org/10.5281/zenodo.23564909
