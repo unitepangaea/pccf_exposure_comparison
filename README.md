@@ -6,7 +6,8 @@ PCCF+ random allocation, using 12.4 million addresses in the National Address Re
 the reference.
 
 > Peters PA, McGaughey T. Population-Weighted Exposure Assignment from Residential Postal
-> Codes: a National Comparison of Methods. *Preprints* 2026. «DOI when posted»
+> Codes: a National Comparison of Methods. *Preprints* 2026 (posted 22 October 2026).
+> https://doi.org/10.20944/preprints202610.2150.v1
 
 ## Description
 
@@ -36,6 +37,7 @@ greenness.
 | `R/` | **Portable function** `pcweight.R` (methods A and B for any dataset with postal codes) and a worked example, `pcweight_example.R` |
 | `scripts/` | Analysis scripts `sw1` to `sw8`, which reproduce every table and figure in the paper |
 | `outputs/` | Aggregate results reported in the paper: manuscript and supplementary tables, figures, and the step outputs they are built from |
+| `paper/` | The preprint as posted on Preprints.org (PDF) |
 | `data/` | Output folder of the scripts (not tracked) |
 | `config.R` | All file paths, relative to the repository root and the validation checkout |
 
@@ -107,4 +109,8 @@ random seeds.
 
 ## Citation
 
-See `CITATION.cff`.
+See `CITATION.cff`, or cite the preprint above (https://doi.org/10.20944/preprints202610.2150.v1).
+The posted preprint is included as [`paper/preprints202610.2150.v1.pdf`](paper/preprints202610.2150.v1.pdf).
+The study builds on the validation of PCCF+ against the NAR
+(https://doi.org/10.20944/preprints202610.1204.v1; code at
+https://github.com/unitepangaea/pccf_nar_validation).

@@ -22,7 +22,9 @@ preferred-citation:
       given-names: Tomoko
   journal: "Preprints"
   year: 2026
-  # doi: "10.20944/preprints2026XX.XXXX.v1"   (add when the preprint is posted)
+  doi: "10.20944/preprints202610.2150.v1"
+  url: "https://doi.org/10.20944/preprints202610.2150.v1"
+  date-published: "2026-10-22"
 references:
   - type: article
     title: "Postal Code Geocoding Error and Exposure Misclassification in Canada: A National Validation of PCCF+ against National Address Registers"
